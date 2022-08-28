@@ -1,0 +1,671 @@
+region,fecha,casos,omicron
+East Midlands,01/11/2021,874,False
+East Midlands,02/11/2021,724,False
+East Midlands,02/11/2021,1,True
+East Midlands,03/11/2021,757,False
+East Midlands,04/11/2021,598,False
+East Midlands,05/11/2021,567,False
+East Midlands,05/11/2021,1,True
+East Midlands,06/11/2021,975,False
+East Midlands,07/11/2021,907,False
+East Midlands,08/11/2021,1578,False
+East Midlands,08/11/2021,4,True
+East Midlands,09/11/2021,1526,False
+East Midlands,10/11/2021,1524,False
+East Midlands,10/11/2021,4,True
+East Midlands,11/11/2021,1531,False
+East Midlands,11/11/2021,1,True
+East Midlands,12/11/2021,1663,False
+East Midlands,12/11/2021,1,True
+East Midlands,13/11/2021,1207,False
+East Midlands,14/11/2021,1233,False
+East Midlands,14/11/2021,2,True
+East Midlands,15/11/2021,2374,False
+East Midlands,15/11/2021,4,True
+East Midlands,16/11/2021,2031,False
+East Midlands,17/11/2021,2134,False
+East Midlands,17/11/2021,3,True
+East Midlands,18/11/2021,2027,False
+East Midlands,18/11/2021,2,True
+East Midlands,19/11/2021,2105,False
+East Midlands,19/11/2021,5,True
+East Midlands,20/11/2021,1958,False
+East Midlands,21/11/2021,2057,False
+East Midlands,21/11/2021,6,True
+East Midlands,22/11/2021,2772,False
+East Midlands,22/11/2021,1,True
+East Midlands,23/11/2021,2733,False
+East Midlands,23/11/2021,4,True
+East Midlands,24/11/2021,1895,False
+East Midlands,24/11/2021,4,True
+East Midlands,25/11/2021,2078,False
+East Midlands,25/11/2021,3,True
+East Midlands,26/11/2021,1292,False
+East Midlands,26/11/2021,6,True
+East Midlands,27/11/2021,1039,False
+East Midlands,27/11/2021,4,True
+East Midlands,28/11/2021,1141,False
+East Midlands,28/11/2021,3,True
+East Midlands,29/11/2021,1933,False
+East Midlands,29/11/2021,15,True
+East Midlands,30/11/2021,1637,False
+East Midlands,30/11/2021,10,True
+East Midlands,01/12/2021,1588,False
+East Midlands,01/12/2021,9,True
+East Midlands,02/12/2021,1215,False
+East Midlands,02/12/2021,21,True
+East Midlands,03/12/2021,1083,False
+East Midlands,03/12/2021,44,True
+East Midlands,04/12/2021,1890,False
+East Midlands,04/12/2021,24,True
+East Midlands,05/12/2021,1778,False
+East Midlands,05/12/2021,15,True
+East Midlands,06/12/2021,1385,False
+East Midlands,06/12/2021,55,True
+East Midlands,07/12/2021,2091,False
+East Midlands,07/12/2021,140,True
+East Midlands,08/12/2021,1361,False
+East Midlands,08/12/2021,102,True
+East Midlands,09/12/2021,2182,False
+East Midlands,09/12/2021,257,True
+East Midlands,10/12/2021,2140,False
+East Midlands,10/12/2021,360,True
+East Midlands,11/12/2021,1807,False
+East Midlands,11/12/2021,396,True
+East Midlands,12/12/2021,1034,False
+East Midlands,12/12/2021,389,True
+East Midlands,13/12/2021,1874,False
+East Midlands,13/12/2021,1158,True
+East of England,01/11/2021,1299,False
+East of England,02/11/2021,1173,False
+East of England,02/11/2021,2,True
+East of England,03/11/2021,1557,False
+East of England,03/11/2021,1,True
+East of England,04/11/2021,1102,False
+East of England,04/11/2021,2,True
+East of England,05/11/2021,1009,False
+East of England,05/11/2021,5,True
+East of England,06/11/2021,1096,False
+East of England,07/11/2021,1208,False
+East of England,08/11/2021,1877,False
+East of England,09/11/2021,2042,False
+East of England,09/11/2021,1,True
+East of England,10/11/2021,1945,False
+East of England,10/11/2021,2,True
+East of England,11/11/2021,2032,False
+East of England,12/11/2021,1820,False
+East of England,13/11/2021,1733,False
+East of England,13/11/2021,1,True
+East of England,14/11/2021,1676,False
+East of England,15/11/2021,3147,False
+East of England,15/11/2021,3,True
+East of England,16/11/2021,2062,False
+East of England,17/11/2021,2113,False
+East of England,18/11/2021,2149,False
+East of England,18/11/2021,1,True
+East of England,19/11/2021,1868,False
+East of England,19/11/2021,1,True
+East of England,20/11/2021,2154,False
+East of England,20/11/2021,1,True
+East of England,21/11/2021,2092,False
+East of England,21/11/2021,2,True
+East of England,22/11/2021,2380,False
+East of England,22/11/2021,4,True
+East of England,23/11/2021,2470,False
+East of England,23/11/2021,2,True
+East of England,24/11/2021,2247,False
+East of England,24/11/2021,2,True
+East of England,25/11/2021,2896,False
+East of England,25/11/2021,4,True
+East of England,26/11/2021,1953,False
+East of England,26/11/2021,5,True
+East of England,27/11/2021,1682,False
+East of England,27/11/2021,7,True
+East of England,28/11/2021,1724,False
+East of England,28/11/2021,5,True
+East of England,29/11/2021,2524,False
+East of England,29/11/2021,7,True
+East of England,30/11/2021,2461,False
+East of England,30/11/2021,11,True
+East of England,01/12/2021,2360,False
+East of England,01/12/2021,7,True
+East of England,02/12/2021,2121,False
+East of England,02/12/2021,19,True
+East of England,03/12/2021,2167,False
+East of England,03/12/2021,29,True
+East of England,04/12/2021,2567,False
+East of England,04/12/2021,36,True
+East of England,05/12/2021,2176,False
+East of England,05/12/2021,60,True
+East of England,06/12/2021,2639,False
+East of England,06/12/2021,134,True
+East of England,07/12/2021,2274,False
+East of England,07/12/2021,238,True
+East of England,08/12/2021,2427,False
+East of England,08/12/2021,368,True
+East of England,09/12/2021,2456,False
+East of England,09/12/2021,507,True
+East of England,10/12/2021,2949,False
+East of England,10/12/2021,749,True
+East of England,11/12/2021,2078,False
+East of England,11/12/2021,656,True
+East of England,12/12/2021,1682,False
+East of England,12/12/2021,916,True
+East of England,13/12/2021,1488,False
+East of England,13/12/2021,1374,True
+London,01/11/2021,1056,False
+London,01/11/2021,1,True
+London,02/11/2021,1061,False
+London,02/11/2021,2,True
+London,03/11/2021,1275,False
+London,03/11/2021,2,True
+London,04/11/2021,961,False
+London,04/11/2021,1,True
+London,05/11/2021,951,False
+London,05/11/2021,1,True
+London,06/11/2021,635,False
+London,06/11/2021,2,True
+London,07/11/2021,593,False
+London,08/11/2021,1309,False
+London,08/11/2021,5,True
+London,09/11/2021,1463,False
+London,09/11/2021,2,True
+London,10/11/2021,1166,False
+London,11/11/2021,1150,False
+London,11/11/2021,1,True
+London,12/11/2021,1022,False
+London,12/11/2021,2,True
+London,13/11/2021,1119,False
+London,13/11/2021,1,True
+London,14/11/2021,679,False
+London,15/11/2021,1660,False
+London,15/11/2021,3,True
+London,16/11/2021,1653,False
+London,16/11/2021,4,True
+London,17/11/2021,1667,False
+London,17/11/2021,3,True
+London,18/11/2021,1922,False
+London,18/11/2021,4,True
+London,19/11/2021,1391,False
+London,19/11/2021,4,True
+London,20/11/2021,1359,False
+London,20/11/2021,1,True
+London,21/11/2021,1365,False
+London,22/11/2021,1757,False
+London,22/11/2021,5,True
+London,23/11/2021,1692,False
+London,23/11/2021,2,True
+London,24/11/2021,1580,False
+London,24/11/2021,5,True
+London,25/11/2021,1804,False
+London,25/11/2021,3,True
+London,26/11/2021,1598,False
+London,26/11/2021,10,True
+London,27/11/2021,1440,False
+London,27/11/2021,12,True
+London,28/11/2021,1098,False
+London,28/11/2021,9,True
+London,29/11/2021,2267,False
+London,29/11/2021,18,True
+London,30/11/2021,1759,False
+London,30/11/2021,24,True
+London,01/12/2021,1708,False
+London,01/12/2021,27,True
+London,02/12/2021,1619,False
+London,02/12/2021,36,True
+London,03/12/2021,1552,False
+London,03/12/2021,49,True
+London,04/12/2021,1888,False
+London,04/12/2021,113,True
+London,05/12/2021,1400,False
+London,05/12/2021,161,True
+London,06/12/2021,2300,False
+London,06/12/2021,355,True
+London,07/12/2021,2056,False
+London,07/12/2021,655,True
+London,08/12/2021,1990,False
+London,08/12/2021,1068,True
+London,09/12/2021,2252,False
+London,09/12/2021,1513,True
+London,10/12/2021,2524,False
+London,10/12/2021,2023,True
+London,11/12/2021,846,False
+London,11/12/2021,877,True
+London,12/12/2021,1242,False
+London,12/12/2021,1833,True
+London,13/12/2021,868,False
+London,13/12/2021,2403,True
+North East,01/11/2021,1701,False
+North East,01/11/2021,1,True
+North East,02/11/2021,477,False
+North East,03/11/2021,905,False
+North East,04/11/2021,628,False
+North East,05/11/2021,706,False
+North East,06/11/2021,527,False
+North East,07/11/2021,439,False
+North East,08/11/2021,1116,False
+North East,09/11/2021,994,False
+North East,09/11/2021,1,True
+North East,10/11/2021,1088,False
+North East,11/11/2021,1158,False
+North East,12/11/2021,1155,False
+North East,12/11/2021,1,True
+North East,13/11/2021,839,False
+North East,14/11/2021,864,False
+North East,15/11/2021,1176,False
+North East,16/11/2021,1080,False
+North East,17/11/2021,1468,False
+North East,18/11/2021,1333,False
+North East,18/11/2021,2,True
+North East,19/11/2021,1197,False
+North East,20/11/2021,1025,False
+North East,21/11/2021,938,False
+North East,22/11/2021,1464,False
+North East,23/11/2021,1345,False
+North East,24/11/2021,1306,False
+North East,25/11/2021,1197,False
+North East,25/11/2021,1,True
+North East,26/11/2021,1044,False
+North East,27/11/2021,585,False
+North East,28/11/2021,1159,False
+North East,28/11/2021,1,True
+North East,29/11/2021,1496,False
+North East,29/11/2021,2,True
+North East,30/11/2021,1465,False
+North East,30/11/2021,1,True
+North East,01/12/2021,1452,False
+North East,01/12/2021,4,True
+North East,02/12/2021,1276,False
+North East,02/12/2021,2,True
+North East,03/12/2021,1063,False
+North East,03/12/2021,2,True
+North East,04/12/2021,888,False
+North East,04/12/2021,1,True
+North East,05/12/2021,981,False
+North East,05/12/2021,2,True
+North East,06/12/2021,1408,False
+North East,06/12/2021,5,True
+North East,07/12/2021,1213,False
+North East,07/12/2021,5,True
+North East,08/12/2021,1347,False
+North East,08/12/2021,3,True
+North East,09/12/2021,1230,False
+North East,09/12/2021,31,True
+North East,10/12/2021,1029,False
+North East,10/12/2021,47,True
+North East,11/12/2021,892,False
+North East,11/12/2021,54,True
+North East,12/12/2021,523,False
+North East,12/12/2021,62,True
+North East,13/12/2021,1259,False
+North East,13/12/2021,207,True
+North West,01/11/2021,3136,False
+North West,01/11/2021,3,True
+North West,02/11/2021,2305,False
+North West,02/11/2021,3,True
+North West,03/11/2021,2033,False
+North West,04/11/2021,1983,False
+North West,04/11/2021,1,True
+North West,05/11/2021,2566,False
+North West,05/11/2021,1,True
+North West,06/11/2021,2283,False
+North West,06/11/2021,1,True
+North West,07/11/2021,2484,False
+North West,08/11/2021,3702,False
+North West,08/11/2021,1,True
+North West,09/11/2021,3550,False
+North West,09/11/2021,3,True
+North West,10/11/2021,3361,False
+North West,10/11/2021,3,True
+North West,11/11/2021,3350,False
+North West,11/11/2021,1,True
+North West,12/11/2021,3070,False
+North West,12/11/2021,1,True
+North West,13/11/2021,2545,False
+North West,14/11/2021,2522,False
+North West,15/11/2021,4250,False
+North West,15/11/2021,1,True
+North West,16/11/2021,3783,False
+North West,16/11/2021,1,True
+North West,17/11/2021,3719,False
+North West,18/11/2021,3690,False
+North West,19/11/2021,3166,False
+North West,19/11/2021,1,True
+North West,20/11/2021,2712,False
+North West,21/11/2021,2600,False
+North West,22/11/2021,3864,False
+North West,23/11/2021,3782,False
+North West,24/11/2021,3432,False
+North West,24/11/2021,1,True
+North West,25/11/2021,3387,False
+North West,25/11/2021,3,True
+North West,26/11/2021,3083,False
+North West,26/11/2021,1,True
+North West,27/11/2021,2393,False
+North West,27/11/2021,4,True
+North West,28/11/2021,2764,False
+North West,28/11/2021,3,True
+North West,29/11/2021,4091,False
+North West,29/11/2021,4,True
+North West,30/11/2021,4297,False
+North West,30/11/2021,12,True
+North West,01/12/2021,4275,False
+North West,01/12/2021,19,True
+North West,02/12/2021,3916,False
+North West,02/12/2021,28,True
+North West,03/12/2021,3559,False
+North West,03/12/2021,39,True
+North West,04/12/2021,1120,False
+North West,04/12/2021,14,True
+North West,05/12/2021,2890,False
+North West,05/12/2021,51,True
+North West,06/12/2021,2874,False
+North West,06/12/2021,128,True
+North West,07/12/2021,3078,False
+North West,07/12/2021,240,True
+North West,08/12/2021,2373,False
+North West,08/12/2021,308,True
+North West,09/12/2021,2391,False
+North West,09/12/2021,377,True
+North West,10/12/2021,3171,False
+North West,10/12/2021,701,True
+North West,11/12/2021,2584,False
+North West,11/12/2021,711,True
+North West,12/12/2021,2332,False
+North West,12/12/2021,984,True
+North West,13/12/2021,2119,False
+North West,13/12/2021,1301,True
+South East,01/11/2021,1547,False
+South East,01/11/2021,9,True
+South East,02/11/2021,1180,False
+South East,02/11/2021,2,True
+South East,03/11/2021,1453,False
+South East,03/11/2021,10,True
+South East,04/11/2021,1013,False
+South East,04/11/2021,1,True
+South East,05/11/2021,1088,False
+South East,05/11/2021,4,True
+South East,06/11/2021,789,False
+South East,07/11/2021,825,False
+South East,07/11/2021,3,True
+South East,08/11/2021,1261,False
+South East,08/11/2021,6,True
+South East,09/11/2021,1672,False
+South East,09/11/2021,4,True
+South East,10/11/2021,1530,False
+South East,10/11/2021,3,True
+South East,11/11/2021,1382,False
+South East,11/11/2021,5,True
+South East,12/11/2021,1271,False
+South East,12/11/2021,1,True
+South East,13/11/2021,1627,False
+South East,13/11/2021,3,True
+South East,14/11/2021,1391,False
+South East,14/11/2021,3,True
+South East,15/11/2021,3698,False
+South East,15/11/2021,7,True
+South East,16/11/2021,2673,False
+South East,16/11/2021,5,True
+South East,17/11/2021,2539,False
+South East,17/11/2021,4,True
+South East,18/11/2021,2571,False
+South East,19/11/2021,1804,False
+South East,19/11/2021,3,True
+South East,20/11/2021,1477,False
+South East,21/11/2021,1694,False
+South East,21/11/2021,6,True
+South East,22/11/2021,2437,False
+South East,22/11/2021,6,True
+South East,23/11/2021,2509,False
+South East,23/11/2021,2,True
+South East,24/11/2021,2156,False
+South East,25/11/2021,2678,False
+South East,25/11/2021,9,True
+South East,26/11/2021,1747,False
+South East,26/11/2021,8,True
+South East,27/11/2021,1604,False
+South East,27/11/2021,9,True
+South East,28/11/2021,1665,False
+South East,28/11/2021,4,True
+South East,29/11/2021,2604,False
+South East,29/11/2021,19,True
+South East,30/11/2021,2519,False
+South East,30/11/2021,9,True
+South East,01/12/2021,2593,False
+South East,01/12/2021,21,True
+South East,02/12/2021,2130,False
+South East,02/12/2021,29,True
+South East,03/12/2021,2448,False
+South East,03/12/2021,23,True
+South East,04/12/2021,2282,False
+South East,04/12/2021,32,True
+South East,05/12/2021,1705,False
+South East,05/12/2021,46,True
+South East,06/12/2021,2485,False
+South East,06/12/2021,127,True
+South East,07/12/2021,2475,False
+South East,07/12/2021,249,True
+South East,08/12/2021,2605,False
+South East,08/12/2021,367,True
+South East,09/12/2021,2682,False
+South East,09/12/2021,435,True
+South East,10/12/2021,2261,False
+South East,10/12/2021,536,True
+South East,11/12/2021,1261,False
+South East,11/12/2021,440,True
+South East,12/12/2021,1234,False
+South East,12/12/2021,641,True
+South East,13/12/2021,1758,False
+South East,13/12/2021,1196,True
+South West,01/11/2021,805,False
+South West,01/11/2021,1,True
+South West,02/11/2021,671,False
+South West,03/11/2021,994,False
+South West,04/11/2021,716,False
+South West,05/11/2021,794,False
+South West,06/11/2021,596,False
+South West,07/11/2021,859,False
+South West,08/11/2021,1050,False
+South West,09/11/2021,993,False
+South West,10/11/2021,958,False
+South West,11/11/2021,823,False
+South West,12/11/2021,718,False
+South West,13/11/2021,871,False
+South West,14/11/2021,752,False
+South West,15/11/2021,1342,False
+South West,16/11/2021,577,False
+South West,17/11/2021,467,False
+South West,18/11/2021,564,False
+South West,19/11/2021,336,False
+South West,20/11/2021,303,False
+South West,21/11/2021,300,False
+South West,22/11/2021,469,False
+South West,23/11/2021,1007,False
+South West,24/11/2021,843,False
+South West,25/11/2021,1077,False
+South West,25/11/2021,1,True
+South West,26/11/2021,765,False
+South West,26/11/2021,1,True
+South West,27/11/2021,781,False
+South West,27/11/2021,3,True
+South West,28/11/2021,744,False
+South West,29/11/2021,1123,False
+South West,29/11/2021,4,True
+South West,30/11/2021,1101,False
+South West,30/11/2021,6,True
+South West,01/12/2021,1135,False
+South West,01/12/2021,4,True
+South West,02/12/2021,876,False
+South West,02/12/2021,3,True
+South West,03/12/2021,1143,False
+South West,03/12/2021,12,True
+South West,04/12/2021,1212,False
+South West,04/12/2021,15,True
+South West,05/12/2021,787,False
+South West,05/12/2021,15,True
+South West,06/12/2021,781,False
+South West,06/12/2021,18,True
+South West,07/12/2021,502,False
+South West,07/12/2021,32,True
+South West,08/12/2021,670,False
+South West,08/12/2021,60,True
+South West,09/12/2021,752,False
+South West,09/12/2021,77,True
+South West,10/12/2021,885,False
+South West,10/12/2021,133,True
+South West,11/12/2021,410,False
+South West,11/12/2021,78,True
+South West,12/12/2021,667,False
+South West,12/12/2021,201,True
+South West,13/12/2021,585,False
+South West,13/12/2021,258,True
+West Midlands,01/11/2021,2869,False
+West Midlands,01/11/2021,1,True
+West Midlands,02/11/2021,2179,False
+West Midlands,02/11/2021,3,True
+West Midlands,03/11/2021,2088,False
+West Midlands,04/11/2021,1801,False
+West Midlands,05/11/2021,1322,False
+West Midlands,06/11/2021,1084,False
+West Midlands,07/11/2021,1096,False
+West Midlands,08/11/2021,1401,False
+West Midlands,08/11/2021,1,True
+West Midlands,09/11/2021,1184,False
+West Midlands,09/11/2021,1,True
+West Midlands,10/11/2021,1161,False
+West Midlands,11/11/2021,1269,False
+West Midlands,12/11/2021,1306,False
+West Midlands,13/11/2021,1269,False
+West Midlands,14/11/2021,904,False
+West Midlands,15/11/2021,2421,False
+West Midlands,15/11/2021,2,True
+West Midlands,16/11/2021,2883,False
+West Midlands,17/11/2021,2008,False
+West Midlands,17/11/2021,1,True
+West Midlands,18/11/2021,2437,False
+West Midlands,19/11/2021,2564,False
+West Midlands,19/11/2021,1,True
+West Midlands,20/11/2021,2106,False
+West Midlands,20/11/2021,2,True
+West Midlands,21/11/2021,2239,False
+West Midlands,21/11/2021,3,True
+West Midlands,22/11/2021,3034,False
+West Midlands,22/11/2021,1,True
+West Midlands,23/11/2021,2291,False
+West Midlands,24/11/2021,2002,False
+West Midlands,24/11/2021,2,True
+West Midlands,25/11/2021,2098,False
+West Midlands,25/11/2021,1,True
+West Midlands,26/11/2021,1752,False
+West Midlands,26/11/2021,3,True
+West Midlands,27/11/2021,1179,False
+West Midlands,27/11/2021,3,True
+West Midlands,28/11/2021,1570,False
+West Midlands,28/11/2021,1,True
+West Midlands,29/11/2021,3177,False
+West Midlands,29/11/2021,6,True
+West Midlands,30/11/2021,3062,False
+West Midlands,30/11/2021,6,True
+West Midlands,01/12/2021,2984,False
+West Midlands,01/12/2021,7,True
+West Midlands,02/12/2021,2787,False
+West Midlands,02/12/2021,7,True
+West Midlands,03/12/2021,1947,False
+West Midlands,03/12/2021,7,True
+West Midlands,04/12/2021,794,False
+West Midlands,04/12/2021,5,True
+West Midlands,05/12/2021,1119,False
+West Midlands,05/12/2021,10,True
+West Midlands,06/12/2021,1826,False
+West Midlands,06/12/2021,21,True
+West Midlands,07/12/2021,1584,False
+West Midlands,07/12/2021,38,True
+West Midlands,08/12/2021,1577,False
+West Midlands,08/12/2021,97,True
+West Midlands,09/12/2021,1538,False
+West Midlands,09/12/2021,137,True
+West Midlands,10/12/2021,2423,False
+West Midlands,10/12/2021,311,True
+West Midlands,11/12/2021,1878,False
+West Midlands,11/12/2021,344,True
+West Midlands,12/12/2021,1741,False
+West Midlands,12/12/2021,490,True
+West Midlands,13/12/2021,1638,False
+West Midlands,13/12/2021,773,True
+Yorkshire and Humber,01/11/2021,3239,False
+Yorkshire and Humber,01/11/2021,2,True
+Yorkshire and Humber,02/11/2021,2641,False
+Yorkshire and Humber,02/11/2021,4,True
+Yorkshire and Humber,03/11/2021,2570,False
+Yorkshire and Humber,03/11/2021,3,True
+Yorkshire and Humber,04/11/2021,2297,False
+Yorkshire and Humber,04/11/2021,3,True
+Yorkshire and Humber,05/11/2021,2078,False
+Yorkshire and Humber,05/11/2021,2,True
+Yorkshire and Humber,06/11/2021,1782,False
+Yorkshire and Humber,07/11/2021,1778,False
+Yorkshire and Humber,08/11/2021,2706,False
+Yorkshire and Humber,08/11/2021,2,True
+Yorkshire and Humber,09/11/2021,2781,False
+Yorkshire and Humber,09/11/2021,1,True
+Yorkshire and Humber,10/11/2021,2648,False
+Yorkshire and Humber,11/11/2021,2594,False
+Yorkshire and Humber,12/11/2021,2562,False
+Yorkshire and Humber,12/11/2021,1,True
+Yorkshire and Humber,13/11/2021,2086,False
+Yorkshire and Humber,13/11/2021,1,True
+Yorkshire and Humber,14/11/2021,2154,False
+Yorkshire and Humber,15/11/2021,3262,False
+Yorkshire and Humber,16/11/2021,2875,False
+Yorkshire and Humber,17/11/2021,2809,False
+Yorkshire and Humber,18/11/2021,2808,False
+Yorkshire and Humber,18/11/2021,2,True
+Yorkshire and Humber,19/11/2021,2514,False
+Yorkshire and Humber,19/11/2021,1,True
+Yorkshire and Humber,20/11/2021,2032,False
+Yorkshire and Humber,20/11/2021,1,True
+Yorkshire and Humber,21/11/2021,1991,False
+Yorkshire and Humber,21/11/2021,1,True
+Yorkshire and Humber,22/11/2021,2922,False
+Yorkshire and Humber,22/11/2021,3,True
+Yorkshire and Humber,23/11/2021,2760,False
+Yorkshire and Humber,23/11/2021,1,True
+Yorkshire and Humber,24/11/2021,2632,False
+Yorkshire and Humber,24/11/2021,3,True
+Yorkshire and Humber,25/11/2021,2446,False
+Yorkshire and Humber,25/11/2021,2,True
+Yorkshire and Humber,26/11/2021,2203,False
+Yorkshire and Humber,26/11/2021,1,True
+Yorkshire and Humber,27/11/2021,1472,False
+Yorkshire and Humber,27/11/2021,1,True
+Yorkshire and Humber,28/11/2021,1865,False
+Yorkshire and Humber,28/11/2021,1,True
+Yorkshire and Humber,29/11/2021,3182,False
+Yorkshire and Humber,30/11/2021,3090,False
+Yorkshire and Humber,30/11/2021,4,True
+Yorkshire and Humber,01/12/2021,2905,False
+Yorkshire and Humber,01/12/2021,5,True
+Yorkshire and Humber,02/12/2021,2724,False
+Yorkshire and Humber,02/12/2021,4,True
+Yorkshire and Humber,03/12/2021,2369,False
+Yorkshire and Humber,03/12/2021,5,True
+Yorkshire and Humber,04/12/2021,1888,False
+Yorkshire and Humber,04/12/2021,3,True
+Yorkshire and Humber,05/12/2021,1933,False
+Yorkshire and Humber,05/12/2021,13,True
+Yorkshire and Humber,06/12/2021,2855,False
+Yorkshire and Humber,06/12/2021,22,True
+Yorkshire and Humber,07/12/2021,2571,False
+Yorkshire and Humber,07/12/2021,61,True
+Yorkshire and Humber,08/12/2021,2611,False
+Yorkshire and Humber,08/12/2021,99,True
+Yorkshire and Humber,09/12/2021,2501,False
+Yorkshire and Humber,09/12/2021,141,True
+Yorkshire and Humber,10/12/2021,2023,False
+Yorkshire and Humber,10/12/2021,159,True
+Yorkshire and Humber,11/12/2021,1722,False
+Yorkshire and Humber,11/12/2021,223,True
+Yorkshire and Humber,12/12/2021,1590,False
+Yorkshire and Humber,12/12/2021,337,True
+Yorkshire and Humber,13/12/2021,1778,False
+Yorkshire and Humber,13/12/2021,702,True
