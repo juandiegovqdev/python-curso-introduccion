@@ -1,0 +1,172 @@
+marca,origen,puntuacion,fecha_puntuacion,porcentaje_cacao,pais_empresa,tipo_semilla,pais_semilla
+A. Morin,Chuao,4.0,2013,70.0,France,Trinitario,Venezuela
+A. Morin,Madagascar,3.0,2013,70.0,France,Criollo,Madagascar
+Alain Ducasse,Chuao,2.5,2013,75.0,France,Trinitario,Venezuela
+Alain Ducasse,Madagascar,3.0,2014,75.0,France,Trinitario,Madagascar
+Alain Ducasse,Vietnam,2.75,2014,75.0,France,Trinitario,Vietnam
+Amano,Chuao,3.0,2010,70.0,U.S.A.,Trinitario,Venezuela
+Amano,Madagascar,3.5,2007,70.0,U.S.A.,Trinitario,Madagascar
+Amano,Ocumare,3.75,2007,70.0,U.S.A.,Criollo,Venezuela
+Ambrosia,Belize,3.0,2015,64.0,Canada,Trinitario,Belize
+Ambrosia,Madagascar,3.25,2015,66.0,Canada,Trinitario,Madagascar
+Amedei,Chuao,5.0,2007,70.0,Italy,Trinitario,Venezuela
+Amedei,Grenada,3.5,2007,70.0,Italy,Trinitario,Grenada
+Amedei,Jamaica,3.0,2007,70.0,Italy,Trinitario,Jamaica
+Amedei,Trinidad,3.5,2007,70.0,Italy,Trinitario,Trinidad
+Ara,Madagascar,3.0,2014,75.0,France,Trinitario,Madagascar
+Arete,Maya Mountain,3.75,2015,70.0,U.S.A.,Trinitario,Belize
+Arete,Tien Giang,3.5,2016,73.0,U.S.A.,Trinitario,Vietnam
+Artisan du Chocolat,Jamaica,3.75,2010,72.0,U.K.,Trinitario,Jamaica
+Artisan du Chocolat,Peru,3.0,2009,75.0,U.K.,Criollo,Peru
+Bahen & Co.,Sambirano,3.0,2012,70.0,Australia,Trinitario,Madagascar
+Bar Au Chocolat,Sambirano,3.75,2012,70.0,U.S.A.,Trinitario,Madagascar
+Benoit Nihant,Chuao,3.5,2013,74.0,Belgium,Criollo,Venezuela
+Beschle (Felchlin),Madagascar,3.0,2011,64.0,Switzerland,Trinitario,Madagascar
+Bisou,Belize,3.25,2015,86.0,U.S.A.,Trinitario,Belize
+Bittersweet Origins,Ghana,3.5,2012,72.0,U.S.A.,Forastero,Ghana
+Bittersweet Origins,Sambirano,3.0,2008,71.0,U.S.A.,Trinitario,Madagascar
+Bittersweet Origins,Sambirano,3.5,2009,65.0,U.S.A.,Trinitario,Madagascar
+Bittersweet Origins,Sambirano,3.25,2009,75.0,U.S.A.,Trinitario,Madagascar
+Black Mountain,Carenero Superior,2.75,2008,70.0,U.S.A.,Trinitario,Venezuela
+Blue Bandana,Madagascar,3.75,2012,70.0,U.S.A.,Trinitario,Madagascar
+Bonnat,Chuao,4.0,2006,75.0,France,Trinitario,Venezuela
+Bonnat,Madagascar,4.0,2006,75.0,France,Trinitario,Madagascar
+Bowler Man,Maya Mountain,2.75,2014,70.0,U.S.A.,Trinitario,Belize
+Brasstown aka It's Chocolate,Chuao,4.0,2014,70.0,U.S.A.,Trinitario,Venezuela
+Brasstown aka It's Chocolate,Ghana,3.5,2013,75.0,U.S.A.,Forastero,Ghana
+Brasstown aka It's Chocolate,Maya Mountain,3.75,2014,70.0,U.S.A.,Trinitario,Belize
+Brazen,Maya Mountain,3.25,2015,80.0,U.S.A.,Trinitario,Belize
+Breeze Mill,Jamaica,3.0,2013,70.0,U.S.A.,Trinitario,Jamaica
+Bright,Gran Couva,2.75,2014,68.0,Australia,Trinitario,Trinidad
+Burnt Fork Bend,Belize,3.25,2014,72.0,U.S.A.,Trinitario,Belize
+Burnt Fork Bend,Trinidad,3.25,2014,72.0,U.S.A.,Trinitario,Trinidad
+C-Amaro,Trinidad,2.5,2011,70.0,Italy,Trinitario,Trinidad
+Cacao Atlanta,Tumbes,2.5,2014,75.0,U.S.A.,Criollo,Peru
+Cao,Porcelana,2.5,2016,75.0,U.S.A.,Criollo,Venezuela
+Castronovo,Tumbes,2.75,2013,70.0,U.S.A.,Criollo,Peru
+Choco Del Sol,Maya Mountain,3.25,2014,82.0,Germany,Trinitario,Belize
+Chocola'te,Madagascar,3.75,2011,70.0,U.S.A.,Trinitario,Madagascar
+Chocolarder,Peru,2.5,2015,65.0,U.K.,Criollo,Peru
+Choklat,Ocumare,3.0,2009,70.0,Canada,Criollo,Venezuela
+Choklat,Ocumare,2.5,2009,80.0,Canada,Criollo,Venezuela
+Chuao Chocolatier (Pralus),Chuao,2.75,2010,77.0,U.S.A.,Trinitario,Venezuela
+Coleman & Davis,Sambirano,3.0,2015,75.0,U.S.A.,Trinitario,Madagascar
+Coppeneur,Chuao,3.0,2010,70.0,Germany,Trinitario,Venezuela
+Coppeneur,Grenada,3.25,2010,72.0,Germany,Trinitario,Grenada
+Coppeneur,Jamaica,3.25,2010,72.0,Germany,Trinitario,Jamaica
+Coppeneur,Madagascar,3.5,2012,70.0,Germany,Trinitario,Madagascar
+Coppeneur,Trinidad,3.0,2010,72.0,Germany,Trinitario,Trinidad
+DAR,Vietnam,3.0,2016,72.0,U.S.A.,Trinitario,Vietnam
+Dandelion,Madagascar,3.25,2011,70.0,U.S.A.,Trinitario,Madagascar
+Dandelion,Maya Mountain,3.5,2014,70.0,U.S.A.,Trinitario,Belize
+Dark Forest,Madagascar,3.0,2015,70.0,U.S.A.,Trinitario,Madagascar
+Davis,Ghana,2.5,2013,70.0,U.S.A.,Forastero,Ghana
+Dean and Deluca (Belcolade),Ghana,3.0,2007,60.0,U.S.A.,Forastero,Ghana
+Dean and Deluca (Belcolade),Madagascar,2.5,2007,66.0,U.S.A.,Trinitario,Madagascar
+Dick Taylor,Belize,2.75,2012,72.0,U.S.A.,Trinitario,Belize
+Dick Taylor,Sambirano,3.0,2011,72.0,U.S.A.,Trinitario,Madagascar
+Dick Taylor,Sambirano,2.75,2011,80.0,U.S.A.,Trinitario,Madagascar
+Dick Taylor,Tien Giang,3.5,2016,78.0,U.S.A.,Trinitario,Vietnam
+Domori,Carenero Superior,3.5,2006,70.0,Italy,Trinitario,Venezuela
+Domori,Madagascar,3.5,2007,70.0,Italy,Trinitario,Madagascar
+Durand,Madagascar,2.75,2012,82.0,France,Trinitario,Madagascar
+East Van Roasters,Madagascar,3.5,2014,70.0,Canada,Trinitario,Madagascar
+Edelmond,Porcelana,3.0,2016,68.0,Germany,Criollo,Venezuela
+Escazu,Carenero Superior,3.5,2009,81.0,U.S.A.,Criollo,Venezuela
+Escazu,Ocumare,3.0,2008,72.0,U.S.A.,Criollo,Venezuela
+Escazu,Rio Caribe,2.75,2012,70.0,U.S.A.,Trinitario,Venezuela
+Ethel's Artisan (Mars),Trinidad,2.5,2011,55.0,U.S.A.,Trinitario,Trinidad
+Ethereal,Belize,3.0,2014,80.0,U.S.A.,Trinitario,Belize
+Felchlin,Grenada,3.5,2010,58.0,Switzerland,Trinitario,Grenada
+Frederic Blondeel,Ghana,3.5,2014,60.0,Belgium,Forastero,Ghana
+Frederic Blondeel,Madagascar,3.5,2014,65.0,Belgium,Trinitario,Madagascar
+Frederic Blondeel,Vietnam,3.0,2015,80.0,Belgium,Trinitario,Vietnam
+Fruition,Gran Couva,3.75,2014,70.0,U.S.A.,Trinitario,Trinidad
+Guido Castagna,Ghana,3.0,2009,64.0,Italy,Forastero,Ghana
+Guittard,Jamaica,3.25,2013,65.0,U.S.A.,Trinitario,Jamaica
+Guittard,Trinidad,3.0,2010,65.0,U.S.A.,Trinitario,Trinidad
+Hotel Chocolat (Coppeneur),Chuao,2.75,2010,70.0,U.K.,Trinitario,Venezuela
+Hotel Chocolat (Coppeneur),Trinidad,3.0,2013,75.0,U.K.,Trinitario,Trinidad
+Isidro,Belize,3.25,2014,72.0,U.S.A.,Trinitario,Belize
+Isidro,Madagascar,3.5,2014,72.0,U.S.A.,Trinitario,Madagascar
+Just Good Chocolate,Belize,3.5,2014,70.0,U.S.A.,Trinitario,Belize
+Just Good Chocolate,Madagascar,3.5,2014,70.0,U.S.A.,Trinitario,Madagascar
+Kto,Belize,3.0,2014,72.0,U.S.A.,Trinitario,Belize
+Kto,Belize,3.25,2014,90.0,U.S.A.,Trinitario,Belize
+Kyya,Madagascar,3.0,2014,72.5,U.S.A.,Trinitario,Madagascar
+L'Amourette,Carenero Superior,3.0,2012,75.0,U.S.A.,Trinitario,Venezuela
+L'Amourette,Rio Caribe,3.0,2012,75.0,U.S.A.,Trinitario,Venezuela
+L.A. Burdick (Felchlin),Chuao,3.75,2012,68.0,U.S.A.,Trinitario,Venezuela
+L.A. Burdick (Felchlin),Grenada,3.25,2010,75.0,U.S.A.,Trinitario,Grenada
+L.A. Burdick (Felchlin),Madagascar,3.5,2009,64.0,U.S.A.,Trinitario,Madagascar
+La Maison du Chocolat (Valrhona),Grenada,3.5,2011,68.0,France,Trinitario,Grenada
+Letterpress,"San Juan Estate, Gran Couva",3.5,2015,70.0,U.S.A.,Trinitario,Trinidad
+Madecasse (Cinagra),Madagascar,4.0,2008,63.0,Madagascar,Trinitario,Madagascar
+Madecasse (Cinagra),Madagascar,3.5,2008,67.0,Madagascar,Trinitario,Madagascar
+Madecasse (Cinagra),Madagascar,3.75,2008,70.0,Madagascar,Trinitario,Madagascar
+Madecasse (Cinagra),Madagascar,3.5,2008,75.0,Madagascar,Trinitario,Madagascar
+Mast Brothers,Chuao,2.75,2012,73.0,U.S.A.,Trinitario,Venezuela
+Maverick,Maya Mountain,3.25,2014,70.0,U.S.A.,Trinitario,Belize
+Maverick,Tumbes,3.25,2014,82.0,U.S.A.,Criollo,Peru
+Meadowlands,Belize,3.0,2014,70.0,U.S.A.,Trinitario,Belize
+Menakao (aka Cinagra),Madagascar,2.5,2012,72.0,Madagascar,Trinitario,Madagascar
+Menakao (aka Cinagra),Madagascar,2.5,2012,80.0,Madagascar,Trinitario,Madagascar
+Middlebury,Belize,3.25,2013,80.0,U.S.A.,Trinitario,Belize
+Middlebury,Maya Mountain,3.5,2015,80.0,U.S.A.,Trinitario,Belize
+Nathan Miller,Ghana,3.5,2014,70.0,U.S.A.,Forastero,Ghana
+Nathan Miller,Madagascar,2.5,2014,73.5,U.S.A.,Trinitario,Madagascar
+Neuhaus (Callebaut),Ocumare,3.0,2006,71.0,Belgium,Criollo,Venezuela
+Nibble,Tumbes,3.0,2015,72.0,U.S.A.,Criollo,Peru
+Noble Bean aka Jerjobo,Ghana,3.0,2014,75.0,U.S.A.,Forastero,Ghana
+Oakland Chocolate Co.,Jamaica,2.5,2010,70.0,U.S.A.,Trinitario,Jamaica
+Ohiyo,"San Juan Estate, Gran Couva",2.75,2015,70.0,U.S.A.,Trinitario,Trinidad
+Palette de Bine,Gran Couva,3.75,2014,70.0,Canada,Trinitario,Trinidad
+Palette de Bine,Sambirano,3.75,2014,78.0,Canada,Trinitario,Madagascar
+Palette de Bine,"San Juan Estate, Gran Couva",3.25,2015,70.0,Canada,Trinitario,Trinidad
+Patric,Madagascar,4.0,2007,70.0,U.S.A.,Trinitario,Madagascar
+Patric,Madagascar,3.5,2009,67.0,U.S.A.,Trinitario,Madagascar
+Patric,Madagascar,4.0,2009,75.0,U.S.A.,Trinitario,Madagascar
+Pierre Marcolini,Chuao,3.0,2010,75.0,Belgium,Criollo,Venezuela
+Pomm (aka Dead Dog),Peru,2.75,2012,82.0,U.S.A.,Criollo,Peru
+Pralus,Chuao,3.5,2010,75.0,France,Trinitario,Venezuela
+Pralus,Ghana,3.25,2006,75.0,France,Forastero,Ghana
+Pralus,Trinidad,3.5,2006,75.0,France,Trinitario,Trinidad
+Raaka,Madagascar,3.25,2012,75.0,U.S.A.,Trinitario,Madagascar
+Ritual,Gran Couva,3.5,2012,75.0,U.S.A.,Trinitario,Trinidad
+Ritual,Sambirano,4.0,2012,75.0,U.S.A.,Trinitario,Madagascar
+Robert (aka Chocolaterie Robert),Madagascar,3.25,2013,75.0,Madagascar,Trinitario,Madagascar
+Rogue,Jamaica,2.75,2008,70.0,U.S.A.,Trinitario,Jamaica
+Rogue,Porcelana,3.75,2014,80.0,U.S.A.,Criollo,Venezuela
+Rogue,Rio Caribe,3.5,2009,70.0,U.S.A.,Trinitario,Venezuela
+Rogue,Trinidad,3.0,2008,70.0,U.S.A.,Trinitario,Trinidad
+Shark Mountain,Jamaica,3.25,2015,72.0,U.S.A.,Trinitario,Jamaica
+Sjolinds,Ghana,2.75,2015,70.0,U.S.A.,Forastero,Ghana
+"Smooth Chocolator, The",Tien Giang,3.0,2016,70.0,Australia,Trinitario,Vietnam
+Snake & Butterfly,Ghana,1.5,2011,67.0,U.S.A.,Forastero,Ghana
+Snake & Butterfly,Madagascar,3.0,2010,68.0,U.S.A.,Trinitario,Madagascar
+Sol Cacao,Madagascar,3.0,2015,72.0,U.S.A.,Trinitario,Madagascar
+Solstice,Sambirano,3.0,2013,70.0,U.S.A.,Trinitario,Madagascar
+Soma,Carenero Superior,3.75,2012,70.0,Canada,Trinitario,Venezuela
+Soma,Chuao,3.5,2011,70.0,Canada,Criollo,Venezuela
+Soma,Madagascar,3.75,2009,70.0,Canada,Criollo,Madagascar
+Soma,Ocumare,3.75,2009,70.0,Canada,Criollo,Venezuela
+Sublime Origins,Sambirano,2.75,2013,67.0,U.S.A.,Trinitario,Madagascar
+Taza,Belize,3.0,2014,68.0,U.S.A.,Trinitario,Belize
+Terroir,Belize,3.75,2015,70.0,U.S.A.,Trinitario,Belize
+Terroir,Madagascar,3.75,2014,67.0,U.S.A.,Trinitario,Madagascar
+Terroir,Madagascar,3.75,2015,70.0,U.S.A.,Trinitario,Madagascar
+Theo,Madagascar,3.5,2007,65.0,U.S.A.,Trinitario,Madagascar
+Two Ravens,Peru,3.0,2016,60.0,U.S.A.,Criollo,Peru
+Vao Vao (Chocolaterie Robert),Madagascar,3.25,2009,64.0,Madagascar,Trinitario,Madagascar
+Vao Vao (Chocolaterie Robert),Madagascar,3.0,2009,70.0,Madagascar,Trinitario,Madagascar
+Vao Vao (Chocolaterie Robert),Madagascar,2.75,2009,72.0,Madagascar,Trinitario,Madagascar
+Vao Vao (Chocolaterie Robert),Madagascar,2.75,2009,76.0,Madagascar,Trinitario,Madagascar
+Vao Vao (Chocolaterie Robert),Madagascar,2.75,2009,80.0,Madagascar,Trinitario,Madagascar
+Videri,Trinidad,3.5,2014,75.0,U.S.A.,Trinitario,Trinidad
+Willie's Cacao,Rio Caribe,3.25,2009,72.0,U.K.,Trinitario,Venezuela
+Willie's Cacao,Sambirano,3.0,2010,71.0,U.K.,Trinitario,Madagascar
+Woodblock,Gran Couva,3.5,2013,70.0,U.S.A.,Trinitario,Trinidad
+Woodblock,Sambirano,3.25,2012,70.0,U.S.A.,Trinitario,Madagascar
+hexx,Madagascar,3.0,2015,74.0,U.S.A.,Trinitario,Madagascar
+organicfair,Maya Mountain,2.75,2013,74.0,Canada,Trinitario,Belize
+twenty-four blackbirds,Madagascar,3.5,2014,75.0,U.S.A.,Trinitario,Madagascar
