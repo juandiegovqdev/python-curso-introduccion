@@ -1,0 +1,936 @@
+C.A.,año,tipo de cultivo,litros de agua
+Andalucía,2000,Herbáceos,997486
+Andalucía,2000,Frutales,481004
+Andalucía,2000,Olivar y Viñedo,441654
+Andalucía,2000,Patatas y hortalizas,1487211
+Andalucía,2000,Otros tipos de cultivos,983826
+Andalucía,2001,Herbáceos,1340836
+Andalucía,2001,Frutales,590675
+Andalucía,2001,Olivar y Viñedo,575463
+Andalucía,2001,Patatas y hortalizas,467629
+Andalucía,2001,Otros tipos de cultivos,1440883
+Andalucía,2002,Herbáceos,1274836
+Andalucía,2002,Frutales,694000
+Andalucía,2002,Olivar y Viñedo,590185
+Andalucía,2002,Patatas y hortalizas,294429
+Andalucía,2002,Otros tipos de cultivos,1653093
+Andalucía,2003,Herbáceos,1627876
+Andalucía,2003,Frutales,644183
+Andalucía,2003,Olivar y Viñedo,556439
+Andalucía,2003,Patatas y hortalizas,490746
+Andalucía,2003,Otros tipos de cultivos,1291804
+Andalucía,2004,Herbáceos,946684
+Andalucía,2004,Frutales,549852
+Andalucía,2004,Olivar y Viñedo,1636619
+Andalucía,2004,Patatas y hortalizas,328074
+Andalucía,2004,Otros tipos de cultivos,1014165
+Andalucía,2005,Herbáceos,928669
+Andalucía,2005,Frutales,627785
+Andalucía,2005,Olivar y Viñedo,1253616
+Andalucía,2005,Patatas y hortalizas,323298
+Andalucía,2005,Otros tipos de cultivos,940632
+Andalucía,2006,Herbáceos,721934
+Andalucía,2006,Frutales,537028
+Andalucía,2006,Olivar y Viñedo,1467884
+Andalucía,2006,Patatas y hortalizas,315461
+Andalucía,2006,Otros tipos de cultivos,734409
+Andalucía,2007,Herbáceos,435416
+Andalucía,2007,Frutales,564085
+Andalucía,2007,Olivar y Viñedo,1814254
+Andalucía,2007,Patatas y hortalizas,221208
+Andalucía,2007,Otros tipos de cultivos,677413
+Andalucía,2008,Herbáceos,490495
+Andalucía,2008,Frutales,596093
+Andalucía,2008,Olivar y Viñedo,1817248
+Andalucía,2008,Patatas y hortalizas,226809
+Andalucía,2008,Otros tipos de cultivos,406247
+Andalucía,2009,Herbáceos,741784
+Andalucía,2009,Frutales,570024
+Andalucía,2009,Olivar y Viñedo,1575598
+Andalucía,2009,Patatas y hortalizas,185442
+Andalucía,2009,Otros tipos de cultivos,594533
+Andalucía,2010,Herbáceos,848173
+Andalucía,2010,Frutales,579121
+Andalucía,2010,Olivar y Viñedo,1602274
+Andalucía,2010,Patatas y hortalizas,158317
+Andalucía,2010,Otros tipos de cultivos,569846
+Andalucía,2011,Herbáceos,1159042
+Andalucía,2011,Frutales,726323
+Andalucía,2011,Olivar y Viñedo,1180724
+Andalucía,2011,Patatas y hortalizas,106790
+Andalucía,2011,Otros tipos de cultivos,419950
+Andalucía,2012,Herbáceos,1379030
+Andalucía,2012,Frutales,834676
+Andalucía,2012,Olivar y Viñedo,864515
+Andalucía,2012,Patatas y hortalizas,150183
+Andalucía,2012,Otros tipos de cultivos,429837
+Andalucía,2013,Herbáceos,1110638
+Andalucía,2013,Frutales,774697
+Andalucía,2013,Olivar y Viñedo,1036500
+Andalucía,2013,Patatas y hortalizas,161500
+Andalucía,2013,Otros tipos de cultivos,679914
+Andalucía,2014,Herbáceos,1341852
+Andalucía,2014,Frutales,815845
+Andalucía,2014,Olivar y Viñedo,951682
+Andalucía,2014,Patatas y hortalizas,254608
+Andalucía,2014,Otros tipos de cultivos,840825
+Andalucía,2015,Herbáceos,1214352
+Andalucía,2015,Frutales,957146
+Andalucía,2015,Olivar y Viñedo,828576
+Andalucía,2015,Patatas y hortalizas,369204
+Andalucía,2015,Otros tipos de cultivos,847072
+Andalucía,2016,Herbáceos,1231579
+Andalucía,2016,Frutales,904452
+Andalucía,2016,Olivar y Viñedo,765116
+Andalucía,2016,Patatas y hortalizas,421545
+Andalucía,2016,Otros tipos de cultivos,763894
+Aragón,2000,Herbáceos,1215650
+Aragón,2000,Frutales,148145
+Aragón,2000,Olivar y Viñedo,157692
+Aragón,2000,Patatas y hortalizas,303430
+Aragón,2000,Otros tipos de cultivos,485804
+Aragón,2001,Herbáceos,1239002
+Aragón,2001,Frutales,168763
+Aragón,2001,Olivar y Viñedo,98667
+Aragón,2001,Patatas y hortalizas,33765
+Aragón,2001,Otros tipos de cultivos,581097
+Aragón,2002,Herbáceos,1249458
+Aragón,2002,Frutales,97175
+Aragón,2002,Olivar y Viñedo,92808
+Aragón,2002,Patatas y hortalizas,22750
+Aragón,2002,Otros tipos de cultivos,738425
+Aragón,2003,Herbáceos,1342283
+Aragón,2003,Frutales,122948
+Aragón,2003,Olivar y Viñedo,80750
+Aragón,2003,Patatas y hortalizas,47775
+Aragón,2003,Otros tipos de cultivos,707984
+Aragón,2004,Herbáceos,1874049
+Aragón,2004,Frutales,329658
+Aragón,2004,Olivar y Viñedo,169064
+Aragón,2004,Patatas y hortalizas,47143
+Aragón,2004,Otros tipos de cultivos,102947
+Aragón,2005,Herbáceos,1721076
+Aragón,2005,Frutales,332874
+Aragón,2005,Olivar y Viñedo,73614
+Aragón,2005,Patatas y hortalizas,36342
+Aragón,2005,Otros tipos de cultivos,69099
+Aragón,2006,Herbáceos,1734970
+Aragón,2006,Frutales,319251
+Aragón,2006,Olivar y Viñedo,60422
+Aragón,2006,Patatas y hortalizas,43710
+Aragón,2006,Otros tipos de cultivos,94622
+Aragón,2007,Herbáceos,1883527
+Aragón,2007,Frutales,288830
+Aragón,2007,Olivar y Viñedo,66014
+Aragón,2007,Patatas y hortalizas,43270
+Aragón,2007,Otros tipos de cultivos,20694
+Aragón,2008,Herbáceos,1723966
+Aragón,2008,Frutales,320286
+Aragón,2008,Olivar y Viñedo,70654
+Aragón,2008,Patatas y hortalizas,36994
+Aragón,2008,Otros tipos de cultivos,27077
+Aragón,2009,Herbáceos,1834284
+Aragón,2009,Frutales,317633
+Aragón,2009,Olivar y Viñedo,84313
+Aragón,2009,Patatas y hortalizas,28796
+Aragón,2009,Otros tipos de cultivos,36506
+Aragón,2010,Herbáceos,1907010
+Aragón,2010,Frutales,314576
+Aragón,2010,Olivar y Viñedo,87284
+Aragón,2010,Patatas y hortalizas,40932
+Aragón,2010,Otros tipos de cultivos,36403
+Aragón,2011,Herbáceos,2221102
+Aragón,2011,Frutales,174540
+Aragón,2011,Olivar y Viñedo,104444
+Aragón,2011,Patatas y hortalizas,67395
+Aragón,2011,Otros tipos de cultivos,31038
+Aragón,2012,Herbáceos,1888503
+Aragón,2012,Frutales,165383
+Aragón,2012,Olivar y Viñedo,98336
+Aragón,2012,Patatas y hortalizas,58108
+Aragón,2012,Otros tipos de cultivos,24585
+Aragón,2013,Herbáceos,1792418
+Aragón,2013,Frutales,124987
+Aragón,2013,Olivar y Viñedo,34840
+Aragón,2013,Patatas y hortalizas,37852
+Aragón,2013,Otros tipos de cultivos,13655
+Aragón,2014,Herbáceos,1828151
+Aragón,2014,Frutales,119248
+Aragón,2014,Olivar y Viñedo,37008
+Aragón,2014,Patatas y hortalizas,49344
+Aragón,2014,Otros tipos de cultivos,22616
+Aragón,2015,Herbáceos,1777179
+Aragón,2015,Frutales,121171
+Aragón,2015,Olivar y Viñedo,52508
+Aragón,2015,Patatas y hortalizas,46449
+Aragón,2015,Otros tipos de cultivos,20841
+Aragón,2016,Herbáceos,1796959
+Aragón,2016,Frutales,121966
+Aragón,2016,Olivar y Viñedo,40655
+Aragón,2016,Patatas y hortalizas,44721
+Aragón,2016,Otros tipos de cultivos,28165
+Castilla y León,2000,Herbáceos,1420534
+Castilla y León,2000,Frutales,60510
+Castilla y León,2000,Olivar y Viñedo,164651
+Castilla y León,2000,Patatas y hortalizas,103910
+Castilla y León,2000,Otros tipos de cultivos,310433
+Castilla y León,2001,Herbáceos,954296
+Castilla y León,2001,Frutales,46740
+Castilla y León,2001,Olivar y Viñedo,43423
+Castilla y León,2001,Patatas y hortalizas,163021
+Castilla y León,2001,Otros tipos de cultivos,689338
+Castilla y León,2002,Herbáceos,1182803
+Castilla y León,2002,Frutales,33139
+Castilla y León,2002,Olivar y Viñedo,28854
+Castilla y León,2002,Patatas y hortalizas,96918
+Castilla y León,2002,Otros tipos de cultivos,735338
+Castilla y León,2003,Herbáceos,1297738
+Castilla y León,2003,Frutales,49448
+Castilla y León,2003,Olivar y Viñedo,32249
+Castilla y León,2003,Patatas y hortalizas,147046
+Castilla y León,2003,Otros tipos de cultivos,681003
+Castilla y León,2004,Herbáceos,1714993
+Castilla y León,2004,Frutales,19860
+Castilla y León,2004,Olivar y Viñedo,53911
+Castilla y León,2004,Patatas y hortalizas,213072
+Castilla y León,2004,Otros tipos de cultivos,328682
+Castilla y León,2005,Herbáceos,1610445
+Castilla y León,2005,Frutales,19754
+Castilla y León,2005,Olivar y Viñedo,20145
+Castilla y León,2005,Patatas y hortalizas,222840
+Castilla y León,2005,Otros tipos de cultivos,419492
+Castilla y León,2006,Herbáceos,1423380
+Castilla y León,2006,Frutales,16074
+Castilla y León,2006,Olivar y Viñedo,24747
+Castilla y León,2006,Patatas y hortalizas,179864
+Castilla y León,2006,Otros tipos de cultivos,505110
+Castilla y León,2007,Herbáceos,1620959
+Castilla y León,2007,Frutales,19471
+Castilla y León,2007,Olivar y Viñedo,34773
+Castilla y León,2007,Patatas y hortalizas,234603
+Castilla y León,2007,Otros tipos de cultivos,294339
+Castilla y León,2008,Herbáceos,1464612
+Castilla y León,2008,Frutales,15184
+Castilla y León,2008,Olivar y Viñedo,27450
+Castilla y León,2008,Patatas y hortalizas,174725
+Castilla y León,2008,Otros tipos de cultivos,334675
+Castilla y León,2009,Herbáceos,1642184
+Castilla y León,2009,Frutales,13350
+Castilla y León,2009,Olivar y Viñedo,12751
+Castilla y León,2009,Patatas y hortalizas,203008
+Castilla y León,2009,Otros tipos de cultivos,298622
+Castilla y León,2010,Herbáceos,1558088
+Castilla y León,2010,Frutales,15741
+Castilla y León,2010,Olivar y Viñedo,22079
+Castilla y León,2010,Patatas y hortalizas,172052
+Castilla y León,2010,Otros tipos de cultivos,354352
+Castilla y León,2011,Herbáceos,1628693
+Castilla y León,2011,Frutales,60221
+Castilla y León,2011,Olivar y Viñedo,3936
+Castilla y León,2011,Patatas y hortalizas,113023
+Castilla y León,2011,Otros tipos de cultivos,209131
+Castilla y León,2012,Herbáceos,1606979
+Castilla y León,2012,Frutales,68812
+Castilla y León,2012,Olivar y Viñedo,8096
+Castilla y León,2012,Patatas y hortalizas,159888
+Castilla y León,2012,Otros tipos de cultivos,180128
+Castilla y León,2013,Herbáceos,1528204
+Castilla y León,2013,Frutales,18837
+Castilla y León,2013,Olivar y Viñedo,20862
+Castilla y León,2013,Patatas y hortalizas,114659
+Castilla y León,2013,Otros tipos de cultivos,120050
+Castilla y León,2014,Herbáceos,1729847
+Castilla y León,2014,Frutales,46354
+Castilla y León,2014,Olivar y Viñedo,14749
+Castilla y León,2014,Patatas y hortalizas,210780
+Castilla y León,2014,Otros tipos de cultivos,105531
+Castilla y León,2015,Herbáceos,1779361
+Castilla y León,2015,Frutales,52722
+Castilla y León,2015,Olivar y Viñedo,37345
+Castilla y León,2015,Patatas y hortalizas,195510
+Castilla y León,2015,Otros tipos de cultivos,111093
+Castilla y León,2016,Herbáceos,1609188
+Castilla y León,2016,Frutales,48215
+Castilla y León,2016,Olivar y Viñedo,12054
+Castilla y León,2016,Patatas y hortalizas,182817
+Castilla y León,2016,Otros tipos de cultivos,156357
+Castilla-La Mancha,2000,Herbáceos,1185585
+Castilla-La Mancha,2000,Frutales,178137
+Castilla-La Mancha,2000,Olivar y Viñedo,141000
+Castilla-La Mancha,2000,Patatas y hortalizas,69262
+Castilla-La Mancha,2000,Otros tipos de cultivos,230635
+Castilla-La Mancha,2001,Herbáceos,841403
+Castilla-La Mancha,2001,Frutales,180928
+Castilla-La Mancha,2001,Olivar y Viñedo,133376
+Castilla-La Mancha,2001,Patatas y hortalizas,241993
+Castilla-La Mancha,2001,Otros tipos de cultivos,413418
+Castilla-La Mancha,2002,Herbáceos,901163
+Castilla-La Mancha,2002,Frutales,209806
+Castilla-La Mancha,2002,Olivar y Viñedo,155650
+Castilla-La Mancha,2002,Patatas y hortalizas,246012
+Castilla-La Mancha,2002,Otros tipos de cultivos,392060
+Castilla-La Mancha,2003,Herbáceos,903042
+Castilla-La Mancha,2003,Frutales,208300
+Castilla-La Mancha,2003,Olivar y Viñedo,127000
+Castilla-La Mancha,2003,Patatas y hortalizas,259893
+Castilla-La Mancha,2003,Otros tipos de cultivos,485286
+Castilla-La Mancha,2004,Herbáceos,951264
+Castilla-La Mancha,2004,Frutales,33736
+Castilla-La Mancha,2004,Olivar y Viñedo,657461
+Castilla-La Mancha,2004,Patatas y hortalizas,303184
+Castilla-La Mancha,2004,Otros tipos de cultivos,110570
+Castilla-La Mancha,2005,Herbáceos,918173
+Castilla-La Mancha,2005,Frutales,50205
+Castilla-La Mancha,2005,Olivar y Viñedo,540614
+Castilla-La Mancha,2005,Patatas y hortalizas,229445
+Castilla-La Mancha,2005,Otros tipos de cultivos,68545
+Castilla-La Mancha,2006,Herbáceos,795678
+Castilla-La Mancha,2006,Frutales,38577
+Castilla-La Mancha,2006,Olivar y Viñedo,632060
+Castilla-La Mancha,2006,Patatas y hortalizas,220767
+Castilla-La Mancha,2006,Otros tipos de cultivos,35184
+Castilla-La Mancha,2007,Herbáceos,808710
+Castilla-La Mancha,2007,Frutales,28809
+Castilla-La Mancha,2007,Olivar y Viñedo,536553
+Castilla-La Mancha,2007,Patatas y hortalizas,310950
+Castilla-La Mancha,2007,Otros tipos de cultivos,71743
+Castilla-La Mancha,2008,Herbáceos,736304
+Castilla-La Mancha,2008,Frutales,33328
+Castilla-La Mancha,2008,Olivar y Viñedo,512768
+Castilla-La Mancha,2008,Patatas y hortalizas,236801
+Castilla-La Mancha,2008,Otros tipos de cultivos,42210
+Castilla-La Mancha,2009,Herbáceos,820271
+Castilla-La Mancha,2009,Frutales,37440
+Castilla-La Mancha,2009,Olivar y Viñedo,590384
+Castilla-La Mancha,2009,Patatas y hortalizas,277021
+Castilla-La Mancha,2009,Otros tipos de cultivos,79416
+Castilla-La Mancha,2010,Herbáceos,816653
+Castilla-La Mancha,2010,Frutales,40289
+Castilla-La Mancha,2010,Olivar y Viñedo,569723
+Castilla-La Mancha,2010,Patatas y hortalizas,191321
+Castilla-La Mancha,2010,Otros tipos de cultivos,61926
+Castilla-La Mancha,2011,Herbáceos,923977
+Castilla-La Mancha,2011,Frutales,114190
+Castilla-La Mancha,2011,Olivar y Viñedo,107849
+Castilla-La Mancha,2011,Patatas y hortalizas,235960
+Castilla-La Mancha,2011,Otros tipos de cultivos,75508
+Castilla-La Mancha,2012,Herbáceos,1167572
+Castilla-La Mancha,2012,Frutales,124209
+Castilla-La Mancha,2012,Olivar y Viñedo,129533
+Castilla-La Mancha,2012,Patatas y hortalizas,276810
+Castilla-La Mancha,2012,Otros tipos de cultivos,76301
+Castilla-La Mancha,2013,Herbáceos,1107916
+Castilla-La Mancha,2013,Frutales,102942
+Castilla-La Mancha,2013,Olivar y Viñedo,89137
+Castilla-La Mancha,2013,Patatas y hortalizas,236379
+Castilla-La Mancha,2013,Otros tipos de cultivos,58147
+Castilla-La Mancha,2014,Herbáceos,1002718
+Castilla-La Mancha,2014,Frutales,29085
+Castilla-La Mancha,2014,Olivar y Viñedo,55400
+Castilla-La Mancha,2014,Patatas y hortalizas,217445
+Castilla-La Mancha,2014,Otros tipos de cultivos,80330
+Castilla-La Mancha,2015,Herbáceos,921764
+Castilla-La Mancha,2015,Frutales,27451
+Castilla-La Mancha,2015,Olivar y Viñedo,86686
+Castilla-La Mancha,2015,Patatas y hortalizas,332297
+Castilla-La Mancha,2015,Otros tipos de cultivos,77779
+Castilla-La Mancha,2016,Herbáceos,1090472
+Castilla-La Mancha,2016,Frutales,29785
+Castilla-La Mancha,2016,Olivar y Viñedo,99284
+Castilla-La Mancha,2016,Patatas y hortalizas,359078
+Castilla-La Mancha,2016,Otros tipos de cultivos,76414
+Cataluña,2000,Herbáceos,598928
+Cataluña,2000,Frutales,372020
+Cataluña,2000,Olivar y Viñedo,137695
+Cataluña,2000,Patatas y hortalizas,46169
+Cataluña,2000,Otros tipos de cultivos,451843
+Cataluña,2001,Herbáceos,523568
+Cataluña,2001,Frutales,343535
+Cataluña,2001,Olivar y Viñedo,56332
+Cataluña,2001,Patatas y hortalizas,55825
+Cataluña,2001,Otros tipos de cultivos,475309
+Cataluña,2002,Herbáceos,534703
+Cataluña,2002,Frutales,278638
+Cataluña,2002,Olivar y Viñedo,55649
+Cataluña,2002,Patatas y hortalizas,29706
+Cataluña,2002,Otros tipos de cultivos,520056
+Cataluña,2003,Herbáceos,704237
+Cataluña,2003,Frutales,318773
+Cataluña,2003,Olivar y Viñedo,56163
+Cataluña,2003,Patatas y hortalizas,47306
+Cataluña,2003,Otros tipos de cultivos,355117
+Cataluña,2004,Herbáceos,906375
+Cataluña,2004,Frutales,472149
+Cataluña,2004,Olivar y Viñedo,23542
+Cataluña,2004,Patatas y hortalizas,51426
+Cataluña,2004,Otros tipos de cultivos,51110
+Cataluña,2005,Herbáceos,805422
+Cataluña,2005,Frutales,463650
+Cataluña,2005,Olivar y Viñedo,29618
+Cataluña,2005,Patatas y hortalizas,47951
+Cataluña,2005,Otros tipos de cultivos,76721
+Cataluña,2006,Herbáceos,784537
+Cataluña,2006,Frutales,459691
+Cataluña,2006,Olivar y Viñedo,82048
+Cataluña,2006,Patatas y hortalizas,23091
+Cataluña,2006,Otros tipos de cultivos,71266
+Cataluña,2007,Herbáceos,865352
+Cataluña,2007,Frutales,467880
+Cataluña,2007,Olivar y Viñedo,56896
+Cataluña,2007,Patatas y hortalizas,34385
+Cataluña,2007,Otros tipos de cultivos,20771
+Cataluña,2008,Herbáceos,734213
+Cataluña,2008,Frutales,414932
+Cataluña,2008,Olivar y Viñedo,79036
+Cataluña,2008,Patatas y hortalizas,40655
+Cataluña,2008,Otros tipos de cultivos,68231
+Cataluña,2009,Herbáceos,868131
+Cataluña,2009,Frutales,444317
+Cataluña,2009,Olivar y Viñedo,46345
+Cataluña,2009,Patatas y hortalizas,40543
+Cataluña,2009,Otros tipos de cultivos,48024
+Cataluña,2010,Herbáceos,978115
+Cataluña,2010,Frutales,404301
+Cataluña,2010,Olivar y Viñedo,48081
+Cataluña,2010,Patatas y hortalizas,43566
+Cataluña,2010,Otros tipos de cultivos,46839
+Cataluña,2011,Herbáceos,1265563
+Cataluña,2011,Frutales,349328
+Cataluña,2011,Olivar y Viñedo,41827
+Cataluña,2011,Patatas y hortalizas,68095
+Cataluña,2011,Otros tipos de cultivos,4960
+Cataluña,2012,Herbáceos,1090200
+Cataluña,2012,Frutales,220040
+Cataluña,2012,Olivar y Viñedo,44294
+Cataluña,2012,Patatas y hortalizas,64297
+Cataluña,2012,Otros tipos de cultivos,10003
+Cataluña,2013,Herbáceos,828303
+Cataluña,2013,Frutales,196027
+Cataluña,2013,Olivar y Viñedo,51628
+Cataluña,2013,Patatas y hortalizas,29532
+Cataluña,2013,Otros tipos de cultivos,4749
+Cataluña,2014,Herbáceos,627660
+Cataluña,2014,Frutales,261659
+Cataluña,2014,Olivar y Viñedo,59426
+Cataluña,2014,Patatas y hortalizas,35640
+Cataluña,2014,Otros tipos de cultivos,5943
+Cataluña,2015,Herbáceos,679251
+Cataluña,2015,Frutales,152619
+Cataluña,2015,Olivar y Viñedo,55584
+Cataluña,2015,Patatas y hortalizas,48989
+Cataluña,2015,Otros tipos de cultivos,6239
+Cataluña,2016,Herbáceos,725766
+Cataluña,2016,Frutales,173747
+Cataluña,2016,Olivar y Viñedo,57585
+Cataluña,2016,Patatas y hortalizas,29785
+Cataluña,2016,Otros tipos de cultivos,6505
+Comunitat Valenciana,2000,Herbáceos,388903
+Comunitat Valenciana,2000,Frutales,1394741
+Comunitat Valenciana,2000,Olivar y Viñedo,67570
+Comunitat Valenciana,2000,Patatas y hortalizas,4965
+Comunitat Valenciana,2000,Otros tipos de cultivos,129777
+Comunitat Valenciana,2001,Herbáceos,338069
+Comunitat Valenciana,2001,Frutales,857009
+Comunitat Valenciana,2001,Olivar y Viñedo,87876
+Comunitat Valenciana,2001,Patatas y hortalizas,103832
+Comunitat Valenciana,2001,Otros tipos de cultivos,525505
+Comunitat Valenciana,2002,Herbáceos,288214
+Comunitat Valenciana,2002,Frutales,711508
+Comunitat Valenciana,2002,Olivar y Viñedo,44104
+Comunitat Valenciana,2002,Patatas y hortalizas,135376
+Comunitat Valenciana,2002,Otros tipos de cultivos,674348
+Comunitat Valenciana,2003,Herbáceos,367624
+Comunitat Valenciana,2003,Frutales,776674
+Comunitat Valenciana,2003,Olivar y Viñedo,58557
+Comunitat Valenciana,2003,Patatas y hortalizas,123709
+Comunitat Valenciana,2003,Otros tipos de cultivos,503297
+Comunitat Valenciana,2004,Herbáceos,146573
+Comunitat Valenciana,2004,Frutales,1394510
+Comunitat Valenciana,2004,Olivar y Viñedo,121057
+Comunitat Valenciana,2004,Patatas y hortalizas,55990
+Comunitat Valenciana,2004,Otros tipos de cultivos,28278
+Comunitat Valenciana,2005,Herbáceos,152800
+Comunitat Valenciana,2005,Frutales,1156249
+Comunitat Valenciana,2005,Olivar y Viñedo,113816
+Comunitat Valenciana,2005,Patatas y hortalizas,86361
+Comunitat Valenciana,2005,Otros tipos de cultivos,92998
+Comunitat Valenciana,2006,Herbáceos,181405
+Comunitat Valenciana,2006,Frutales,1164218
+Comunitat Valenciana,2006,Olivar y Viñedo,112413
+Comunitat Valenciana,2006,Patatas y hortalizas,57707
+Comunitat Valenciana,2006,Otros tipos de cultivos,31359
+Comunitat Valenciana,2007,Herbáceos,182012
+Comunitat Valenciana,2007,Frutales,1069390
+Comunitat Valenciana,2007,Olivar y Viñedo,86566
+Comunitat Valenciana,2007,Patatas y hortalizas,67934
+Comunitat Valenciana,2007,Otros tipos de cultivos,109094
+Comunitat Valenciana,2008,Herbáceos,150598
+Comunitat Valenciana,2008,Frutales,1037788
+Comunitat Valenciana,2008,Olivar y Viñedo,103328
+Comunitat Valenciana,2008,Patatas y hortalizas,79921
+Comunitat Valenciana,2008,Otros tipos de cultivos,137874
+Comunitat Valenciana,2009,Herbáceos,281456
+Comunitat Valenciana,2009,Frutales,974166
+Comunitat Valenciana,2009,Olivar y Viñedo,82179
+Comunitat Valenciana,2009,Patatas y hortalizas,67753
+Comunitat Valenciana,2009,Otros tipos de cultivos,45492
+Comunitat Valenciana,2010,Herbáceos,267117
+Comunitat Valenciana,2010,Frutales,996475
+Comunitat Valenciana,2010,Olivar y Viñedo,92418
+Comunitat Valenciana,2010,Patatas y hortalizas,68274
+Comunitat Valenciana,2010,Otros tipos de cultivos,23208
+Comunitat Valenciana,2011,Herbáceos,256688
+Comunitat Valenciana,2011,Frutales,740988
+Comunitat Valenciana,2011,Olivar y Viñedo,53643
+Comunitat Valenciana,2011,Patatas y hortalizas,166500
+Comunitat Valenciana,2011,Otros tipos de cultivos,23606
+Comunitat Valenciana,2012,Herbáceos,191790
+Comunitat Valenciana,2012,Frutales,746111
+Comunitat Valenciana,2012,Olivar y Viñedo,50286
+Comunitat Valenciana,2012,Patatas y hortalizas,155537
+Comunitat Valenciana,2012,Otros tipos de cultivos,25729
+Comunitat Valenciana,2013,Herbáceos,149833
+Comunitat Valenciana,2013,Frutales,657245
+Comunitat Valenciana,2013,Olivar y Viñedo,55030
+Comunitat Valenciana,2013,Patatas y hortalizas,150554
+Comunitat Valenciana,2013,Otros tipos de cultivos,25958
+Comunitat Valenciana,2014,Herbáceos,361267
+Comunitat Valenciana,2014,Frutales,819230
+Comunitat Valenciana,2014,Olivar y Viñedo,29546
+Comunitat Valenciana,2014,Patatas y hortalizas,122225
+Comunitat Valenciana,2014,Otros tipos de cultivos,10744
+Comunitat Valenciana,2015,Herbáceos,327462
+Comunitat Valenciana,2015,Frutales,742573
+Comunitat Valenciana,2015,Olivar y Viñedo,26781
+Comunitat Valenciana,2015,Patatas y hortalizas,110777
+Comunitat Valenciana,2015,Otros tipos de cultivos,10441
+Comunitat Valenciana,2016,Herbáceos,361757
+Comunitat Valenciana,2016,Frutales,698822
+Comunitat Valenciana,2016,Olivar y Viñedo,51856
+Comunitat Valenciana,2016,Patatas y hortalizas,113589
+Comunitat Valenciana,2016,Otros tipos de cultivos,8778
+Extremadura,2000,Herbáceos,887171
+Extremadura,2000,Frutales,90730
+Extremadura,2000,Olivar y Viñedo,214673
+Extremadura,2000,Patatas y hortalizas,137095
+Extremadura,2000,Otros tipos de cultivos,77213
+Extremadura,2001,Herbáceos,903542
+Extremadura,2001,Frutales,97193
+Extremadura,2001,Olivar y Viñedo,98518
+Extremadura,2001,Patatas y hortalizas,129484
+Extremadura,2001,Otros tipos de cultivos,217266
+Extremadura,2002,Herbáceos,616005
+Extremadura,2002,Frutales,68366
+Extremadura,2002,Olivar y Viñedo,4223
+Extremadura,2002,Patatas y hortalizas,232108
+Extremadura,2002,Otros tipos de cultivos,451241
+Extremadura,2003,Herbáceos,797102
+Extremadura,2003,Frutales,80535
+Extremadura,2003,Olivar y Viñedo,37565
+Extremadura,2003,Patatas y hortalizas,231108
+Extremadura,2003,Otros tipos de cultivos,323121
+Extremadura,2004,Herbáceos,850060
+Extremadura,2004,Frutales,63625
+Extremadura,2004,Olivar y Viñedo,132702
+Extremadura,2004,Patatas y hortalizas,219028
+Extremadura,2004,Otros tipos de cultivos,151847
+Extremadura,2005,Herbáceos,922278
+Extremadura,2005,Frutales,68872
+Extremadura,2005,Olivar y Viñedo,129648
+Extremadura,2005,Patatas y hortalizas,186777
+Extremadura,2005,Otros tipos de cultivos,119438
+Extremadura,2006,Herbáceos,936788
+Extremadura,2006,Frutales,70720
+Extremadura,2006,Olivar y Viñedo,148805
+Extremadura,2006,Patatas y hortalizas,112656
+Extremadura,2006,Otros tipos de cultivos,143586
+Extremadura,2007,Herbáceos,1002095
+Extremadura,2007,Frutales,80923
+Extremadura,2007,Olivar y Viñedo,211796
+Extremadura,2007,Patatas y hortalizas,135171
+Extremadura,2007,Otros tipos de cultivos,151249
+Extremadura,2008,Herbáceos,987700
+Extremadura,2008,Frutales,70120
+Extremadura,2008,Olivar y Viñedo,254677
+Extremadura,2008,Patatas y hortalizas,128098
+Extremadura,2008,Otros tipos de cultivos,111817
+Extremadura,2009,Herbáceos,879263
+Extremadura,2009,Frutales,60028
+Extremadura,2009,Olivar y Viñedo,200039
+Extremadura,2009,Patatas y hortalizas,34903
+Extremadura,2009,Otros tipos de cultivos,319904
+Extremadura,2010,Herbáceos,996137
+Extremadura,2010,Frutales,76500
+Extremadura,2010,Olivar y Viñedo,219788
+Extremadura,2010,Patatas y hortalizas,12010
+Extremadura,2010,Otros tipos de cultivos,326131
+Extremadura,2011,Herbáceos,1340961
+Extremadura,2011,Frutales,116016
+Extremadura,2011,Olivar y Viñedo,15164
+Extremadura,2011,Patatas y hortalizas,129862
+Extremadura,2011,Otros tipos de cultivos,368531
+Extremadura,2012,Herbáceos,1306724
+Extremadura,2012,Frutales,129772
+Extremadura,2012,Olivar y Viñedo,34245
+Extremadura,2012,Patatas y hortalizas,81107
+Extremadura,2012,Otros tipos de cultivos,250530
+Extremadura,2013,Herbáceos,1137887
+Extremadura,2013,Frutales,95616
+Extremadura,2013,Olivar y Viñedo,22689
+Extremadura,2013,Patatas y hortalizas,93995
+Extremadura,2013,Otros tipos de cultivos,270642
+Extremadura,2014,Herbáceos,985644
+Extremadura,2014,Frutales,74932
+Extremadura,2014,Olivar y Viñedo,15851
+Extremadura,2014,Patatas y hortalizas,135454
+Extremadura,2014,Otros tipos de cultivos,229796
+Extremadura,2015,Herbáceos,1057716
+Extremadura,2015,Frutales,86978
+Extremadura,2015,Olivar y Viñedo,35723
+Extremadura,2015,Patatas y hortalizas,105616
+Extremadura,2015,Otros tipos de cultivos,178727
+Extremadura,2016,Herbáceos,1111952
+Extremadura,2016,Frutales,96906
+Extremadura,2016,Olivar y Viñedo,32849
+Extremadura,2016,Patatas y hortalizas,159320
+Extremadura,2016,Otros tipos de cultivos,176776
+Región de Murcia,2000,Herbáceos,56665
+Región de Murcia,2000,Frutales,302117
+Región de Murcia,2000,Olivar y Viñedo,39328
+Región de Murcia,2000,Patatas y hortalizas,0
+Región de Murcia,2000,Otros tipos de cultivos,98254
+Región de Murcia,2001,Herbáceos,80853
+Región de Murcia,2001,Frutales,319529
+Región de Murcia,2001,Olivar y Viñedo,12865
+Región de Murcia,2001,Patatas y hortalizas,83253
+Región de Murcia,2001,Otros tipos de cultivos,67234
+Región de Murcia,2002,Herbáceos,57160
+Región de Murcia,2002,Frutales,318750
+Región de Murcia,2002,Olivar y Viñedo,28649
+Región de Murcia,2002,Patatas y hortalizas,65851
+Región de Murcia,2002,Otros tipos de cultivos,159300
+Región de Murcia,2003,Herbáceos,31544
+Región de Murcia,2003,Frutales,406693
+Región de Murcia,2003,Olivar y Viñedo,35148
+Región de Murcia,2003,Patatas y hortalizas,80187
+Región de Murcia,2003,Otros tipos de cultivos,60870
+Región de Murcia,2004,Herbáceos,34350
+Región de Murcia,2004,Frutales,336180
+Región de Murcia,2004,Olivar y Viñedo,36838
+Región de Murcia,2004,Patatas y hortalizas,197479
+Región de Murcia,2004,Otros tipos de cultivos,15109
+Región de Murcia,2005,Herbáceos,6979
+Región de Murcia,2005,Frutales,285000
+Región de Murcia,2005,Olivar y Viñedo,52440
+Región de Murcia,2005,Patatas y hortalizas,183832
+Región de Murcia,2005,Otros tipos de cultivos,34815
+Región de Murcia,2006,Herbáceos,10032
+Región de Murcia,2006,Frutales,298124
+Región de Murcia,2006,Olivar y Viñedo,51607
+Región de Murcia,2006,Patatas y hortalizas,125666
+Región de Murcia,2006,Otros tipos de cultivos,42082
+Región de Murcia,2007,Herbáceos,19596
+Región de Murcia,2007,Frutales,270858
+Región de Murcia,2007,Olivar y Viñedo,56557
+Región de Murcia,2007,Patatas y hortalizas,180848
+Región de Murcia,2007,Otros tipos de cultivos,23944
+Región de Murcia,2008,Herbáceos,17911
+Región de Murcia,2008,Frutales,266353
+Región de Murcia,2008,Olivar y Viñedo,42982
+Región de Murcia,2008,Patatas y hortalizas,178284
+Región de Murcia,2008,Otros tipos de cultivos,16214
+Región de Murcia,2009,Herbáceos,20632
+Región de Murcia,2009,Frutales,252882
+Región de Murcia,2009,Olivar y Viñedo,40943
+Región de Murcia,2009,Patatas y hortalizas,184421
+Región de Murcia,2009,Otros tipos de cultivos,27173
+Región de Murcia,2010,Herbáceos,17416
+Región de Murcia,2010,Frutales,244740
+Región de Murcia,2010,Olivar y Viñedo,44712
+Región de Murcia,2010,Patatas y hortalizas,162195
+Región de Murcia,2010,Otros tipos de cultivos,38777
+Región de Murcia,2011,Herbáceos,16455
+Región de Murcia,2011,Frutales,239488
+Región de Murcia,2011,Olivar y Viñedo,105442
+Región de Murcia,2011,Patatas y hortalizas,207636
+Región de Murcia,2011,Otros tipos de cultivos,5676
+Región de Murcia,2012,Herbáceos,28208
+Región de Murcia,2012,Frutales,238589
+Región de Murcia,2012,Olivar y Viñedo,76984
+Región de Murcia,2012,Patatas y hortalizas,238589
+Región de Murcia,2012,Otros tipos de cultivos,5288
+Región de Murcia,2013,Herbáceos,15411
+Región de Murcia,2013,Frutales,214378
+Región de Murcia,2013,Olivar y Viñedo,81838
+Región de Murcia,2013,Patatas y hortalizas,212564
+Región de Murcia,2013,Otros tipos de cultivos,6908
+Región de Murcia,2014,Herbáceos,23751
+Región de Murcia,2014,Frutales,216804
+Región de Murcia,2014,Olivar y Viñedo,85869
+Región de Murcia,2014,Patatas y hortalizas,273441
+Región de Murcia,2014,Otros tipos de cultivos,9454
+Región de Murcia,2015,Herbáceos,23480
+Región de Murcia,2015,Frutales,275204
+Región de Murcia,2015,Olivar y Viñedo,79722
+Región de Murcia,2015,Patatas y hortalizas,160535
+Región de Murcia,2015,Otros tipos de cultivos,5326
+Región de Murcia,2016,Herbáceos,17180
+Región de Murcia,2016,Frutales,233327
+Región de Murcia,2016,Olivar y Viñedo,61432
+Región de Murcia,2016,Patatas y hortalizas,217616
+Región de Murcia,2016,Otros tipos de cultivos,1562
+Navarra Comunidad Foral de,2000,Herbáceos,269801
+Navarra Comunidad Foral de,2000,Frutales,11366
+Navarra Comunidad Foral de,2000,Olivar y Viñedo,61849
+Navarra Comunidad Foral de,2000,Patatas y hortalizas,20991
+Navarra Comunidad Foral de,2000,Otros tipos de cultivos,23863
+Navarra Comunidad Foral de,2001,Herbáceos,187329
+Navarra Comunidad Foral de,2001,Frutales,5134
+Navarra Comunidad Foral de,2001,Olivar y Viñedo,10987
+Navarra Comunidad Foral de,2001,Patatas y hortalizas,92295
+Navarra Comunidad Foral de,2001,Otros tipos de cultivos,91631
+Navarra Comunidad Foral de,2002,Herbáceos,193595
+Navarra Comunidad Foral de,2002,Frutales,2053
+Navarra Comunidad Foral de,2002,Olivar y Viñedo,11317
+Navarra Comunidad Foral de,2002,Patatas y hortalizas,59104
+Navarra Comunidad Foral de,2002,Otros tipos de cultivos,127411
+Navarra Comunidad Foral de,2003,Herbáceos,228782
+Navarra Comunidad Foral de,2003,Frutales,3152
+Navarra Comunidad Foral de,2003,Olivar y Viñedo,20576
+Navarra Comunidad Foral de,2003,Patatas y hortalizas,51804
+Navarra Comunidad Foral de,2003,Otros tipos de cultivos,100051
+Navarra Comunidad Foral de,2004,Herbáceos,318155
+Navarra Comunidad Foral de,2004,Frutales,29172
+Navarra Comunidad Foral de,2004,Olivar y Viñedo,36711
+Navarra Comunidad Foral de,2004,Patatas y hortalizas,32310
+Navarra Comunidad Foral de,2004,Otros tipos de cultivos,26473
+Navarra Comunidad Foral de,2005,Herbáceos,336764
+Navarra Comunidad Foral de,2005,Frutales,23995
+Navarra Comunidad Foral de,2005,Olivar y Viñedo,32765
+Navarra Comunidad Foral de,2005,Patatas y hortalizas,44317
+Navarra Comunidad Foral de,2005,Otros tipos de cultivos,20522
+Navarra Comunidad Foral de,2006,Herbáceos,284942
+Navarra Comunidad Foral de,2006,Frutales,17496
+Navarra Comunidad Foral de,2006,Olivar y Viñedo,44226
+Navarra Comunidad Foral de,2006,Patatas y hortalizas,42062
+Navarra Comunidad Foral de,2006,Otros tipos de cultivos,49500
+Navarra Comunidad Foral de,2007,Herbáceos,283952
+Navarra Comunidad Foral de,2007,Frutales,10283
+Navarra Comunidad Foral de,2007,Olivar y Viñedo,62013
+Navarra Comunidad Foral de,2007,Patatas y hortalizas,95000
+Navarra Comunidad Foral de,2007,Otros tipos de cultivos,3603
+Navarra Comunidad Foral de,2008,Herbáceos,296594
+Navarra Comunidad Foral de,2008,Frutales,14628
+Navarra Comunidad Foral de,2008,Olivar y Viñedo,53763
+Navarra Comunidad Foral de,2008,Patatas y hortalizas,59313
+Navarra Comunidad Foral de,2008,Otros tipos de cultivos,9156
+Navarra Comunidad Foral de,2009,Herbáceos,313607
+Navarra Comunidad Foral de,2009,Frutales,29768
+Navarra Comunidad Foral de,2009,Olivar y Viñedo,64780
+Navarra Comunidad Foral de,2009,Patatas y hortalizas,75332
+Navarra Comunidad Foral de,2009,Otros tipos de cultivos,15705
+Navarra Comunidad Foral de,2010,Herbáceos,355888
+Navarra Comunidad Foral de,2010,Frutales,28068
+Navarra Comunidad Foral de,2010,Olivar y Viñedo,61555
+Navarra Comunidad Foral de,2010,Patatas y hortalizas,40485
+Navarra Comunidad Foral de,2010,Otros tipos de cultivos,21031
+Navarra Comunidad Foral de,2011,Herbáceos,408152
+Navarra Comunidad Foral de,2011,Frutales,9020
+Navarra Comunidad Foral de,2011,Olivar y Viñedo,41274
+Navarra Comunidad Foral de,2011,Patatas y hortalizas,57350
+Navarra Comunidad Foral de,2011,Otros tipos de cultivos,37817
+Navarra Comunidad Foral de,2012,Herbáceos,372481
+Navarra Comunidad Foral de,2012,Frutales,4643
+Navarra Comunidad Foral de,2012,Olivar y Viñedo,21668
+Navarra Comunidad Foral de,2012,Patatas y hortalizas,73259
+Navarra Comunidad Foral de,2012,Otros tipos de cultivos,43851
+Navarra Comunidad Foral de,2013,Herbáceos,406560
+Navarra Comunidad Foral de,2013,Frutales,5670
+Navarra Comunidad Foral de,2013,Olivar y Viñedo,31441
+Navarra Comunidad Foral de,2013,Patatas y hortalizas,44326
+Navarra Comunidad Foral de,2013,Otros tipos de cultivos,27316
+Navarra Comunidad Foral de,2014,Herbáceos,349664
+Navarra Comunidad Foral de,2014,Frutales,6258
+Navarra Comunidad Foral de,2014,Olivar y Viñedo,22129
+Navarra Comunidad Foral de,2014,Patatas y hortalizas,46830
+Navarra Comunidad Foral de,2014,Otros tipos de cultivos,21903
+Navarra Comunidad Foral de,2015,Herbáceos,315157
+Navarra Comunidad Foral de,2015,Frutales,2818
+Navarra Comunidad Foral de,2015,Olivar y Viñedo,23345
+Navarra Comunidad Foral de,2015,Patatas y hortalizas,41458
+Navarra Comunidad Foral de,2015,Otros tipos de cultivos,19255
+Navarra Comunidad Foral de,2016,Herbáceos,290635
+Navarra Comunidad Foral de,2016,Frutales,5948
+Navarra Comunidad Foral de,2016,Olivar y Viñedo,23394
+Navarra Comunidad Foral de,2016,Patatas y hortalizas,59079
+Navarra Comunidad Foral de,2016,Otros tipos de cultivos,13884
+La Rioja,2000,Herbáceos,61728
+La Rioja,2000,Frutales,37550
+La Rioja,2000,Olivar y Viñedo,42532
+La Rioja,2000,Patatas y hortalizas,5965
+La Rioja,2000,Otros tipos de cultivos,28393
+La Rioja,2001,Herbáceos,78865
+La Rioja,2001,Frutales,41097
+La Rioja,2001,Olivar y Viñedo,13785
+La Rioja,2001,Patatas y hortalizas,22593
+La Rioja,2001,Otros tipos de cultivos,18349
+La Rioja,2002,Herbáceos,39042
+La Rioja,2002,Frutales,58331
+La Rioja,2002,Olivar y Viñedo,25068
+La Rioja,2002,Patatas y hortalizas,41044
+La Rioja,2002,Otros tipos de cultivos,30331
+La Rioja,2003,Herbáceos,44957
+La Rioja,2003,Frutales,52701
+La Rioja,2003,Olivar y Viñedo,20437
+La Rioja,2003,Patatas y hortalizas,61595
+La Rioja,2003,Otros tipos de cultivos,18814
+La Rioja,2004,Herbáceos,42595
+La Rioja,2004,Frutales,47886
+La Rioja,2004,Olivar y Viñedo,42698
+La Rioja,2004,Patatas y hortalizas,41853
+La Rioja,2004,Otros tipos de cultivos,32170
+La Rioja,2005,Herbáceos,29964
+La Rioja,2005,Frutales,48431
+La Rioja,2005,Olivar y Viñedo,42787
+La Rioja,2005,Patatas y hortalizas,46194
+La Rioja,2005,Otros tipos de cultivos,24711
+La Rioja,2006,Herbáceos,33376
+La Rioja,2006,Frutales,45804
+La Rioja,2006,Olivar y Viñedo,40680
+La Rioja,2006,Patatas y hortalizas,52403
+La Rioja,2006,Otros tipos de cultivos,17574
+La Rioja,2007,Herbáceos,72349
+La Rioja,2007,Frutales,38425
+La Rioja,2007,Olivar y Viñedo,65557
+La Rioja,2007,Patatas y hortalizas,35216
+La Rioja,2007,Otros tipos de cultivos,12785
+La Rioja,2008,Herbáceos,75608
+La Rioja,2008,Frutales,39619
+La Rioja,2008,Olivar y Viñedo,75026
+La Rioja,2008,Patatas y hortalizas,35923
+La Rioja,2008,Otros tipos de cultivos,14684
+La Rioja,2009,Herbáceos,73971
+La Rioja,2009,Frutales,49973
+La Rioja,2009,Olivar y Viñedo,98786
+La Rioja,2009,Patatas y hortalizas,38825
+La Rioja,2009,Otros tipos de cultivos,12435
+La Rioja,2010,Herbáceos,74589
+La Rioja,2010,Frutales,38004
+La Rioja,2010,Olivar y Viñedo,90973
+La Rioja,2010,Patatas y hortalizas,48178
+La Rioja,2010,Otros tipos de cultivos,28430
+La Rioja,2011,Herbáceos,43479
+La Rioja,2011,Frutales,94933
+La Rioja,2011,Olivar y Viñedo,81538
+La Rioja,2011,Patatas y hortalizas,60804
+La Rioja,2011,Otros tipos de cultivos,26040
+La Rioja,2012,Herbáceos,48441
+La Rioja,2012,Frutales,88973
+La Rioja,2012,Olivar y Viñedo,82710
+La Rioja,2012,Patatas y hortalizas,84030
+La Rioja,2012,Otros tipos de cultivos,25374
+La Rioja,2013,Herbáceos,40545
+La Rioja,2013,Frutales,81119
+La Rioja,2013,Olivar y Viñedo,63335
+La Rioja,2013,Patatas y hortalizas,61480
+La Rioja,2013,Otros tipos de cultivos,18492
+La Rioja,2014,Herbáceos,29736
+La Rioja,2014,Frutales,72688
+La Rioja,2014,Olivar y Viñedo,62776
+La Rioja,2014,Patatas y hortalizas,54506
+La Rioja,2014,Otros tipos de cultivos,16756
+La Rioja,2015,Herbáceos,18756
+La Rioja,2015,Frutales,88061
+La Rioja,2015,Olivar y Viñedo,47804
+La Rioja,2015,Patatas y hortalizas,57868
+La Rioja,2015,Otros tipos de cultivos,12634
+La Rioja,2016,Herbáceos,13167
+La Rioja,2016,Frutales,67409
+La Rioja,2016,Olivar y Viñedo,40143
+La Rioja,2016,Patatas y hortalizas,33560
+La Rioja,2016,Otros tipos de cultivos,13167
+Resto de Comunidades Autónomas,2000,Herbáceos,156431
+Resto de Comunidades Autónomas,2000,Frutales,42675
+Resto de Comunidades Autónomas,2000,Olivar y Viñedo,53201
+Resto de Comunidades Autónomas,2000,Patatas y hortalizas,2513
+Resto de Comunidades Autónomas,2000,Otros tipos de cultivos,15640
+Resto de Comunidades Autónomas,2001,Herbáceos,307691
+Resto de Comunidades Autónomas,2001,Frutales,115548
+Resto de Comunidades Autónomas,2001,Olivar y Viñedo,11260
+Resto de Comunidades Autónomas,2001,Patatas y hortalizas,24782
+Resto de Comunidades Autónomas,2001,Otros tipos de cultivos,20379
+Resto de Comunidades Autónomas,2002,Herbáceos,235752
+Resto de Comunidades Autónomas,2002,Frutales,127031
+Resto de Comunidades Autónomas,2002,Olivar y Viñedo,13380
+Resto de Comunidades Autónomas,2002,Patatas y hortalizas,24953
+Resto de Comunidades Autónomas,2002,Otros tipos de cultivos,131864
+Resto de Comunidades Autónomas,2003,Herbáceos,242100
+Resto de Comunidades Autónomas,2003,Frutales,132106
+Resto de Comunidades Autónomas,2003,Olivar y Viñedo,9633
+Resto de Comunidades Autónomas,2003,Patatas y hortalizas,27714
+Resto de Comunidades Autónomas,2003,Otros tipos de cultivos,54528
+Resto de Comunidades Autónomas,2004,Herbáceos,240402
+Resto de Comunidades Autónomas,2004,Frutales,49931
+Resto de Comunidades Autónomas,2004,Olivar y Viñedo,20072
+Resto de Comunidades Autónomas,2004,Patatas y hortalizas,83116
+Resto de Comunidades Autónomas,2004,Otros tipos de cultivos,90905
+Resto de Comunidades Autónomas,2005,Herbáceos,209960
+Resto de Comunidades Autónomas,2005,Frutales,73338
+Resto de Comunidades Autónomas,2005,Olivar y Viñedo,15091
+Resto de Comunidades Autónomas,2005,Patatas y hortalizas,69606
+Resto de Comunidades Autónomas,2005,Otros tipos de cultivos,64069
+Resto de Comunidades Autónomas,2006,Herbáceos,181091
+Resto de Comunidades Autónomas,2006,Frutales,67817
+Resto de Comunidades Autónomas,2006,Olivar y Viñedo,16878
+Resto de Comunidades Autónomas,2006,Patatas y hortalizas,90983
+Resto de Comunidades Autónomas,2006,Otros tipos de cultivos,71190
+Resto de Comunidades Autónomas,2007,Herbáceos,176008
+Resto de Comunidades Autónomas,2007,Frutales,84063
+Resto de Comunidades Autónomas,2007,Olivar y Viñedo,31389
+Resto de Comunidades Autónomas,2007,Patatas y hortalizas,107468
+Resto de Comunidades Autónomas,2007,Otros tipos de cultivos,63830
+Resto de Comunidades Autónomas,2008,Herbáceos,192114
+Resto de Comunidades Autónomas,2008,Frutales,78810
+Resto de Comunidades Autónomas,2008,Olivar y Viñedo,23496
+Resto de Comunidades Autónomas,2008,Patatas y hortalizas,81764
+Resto de Comunidades Autónomas,2008,Otros tipos de cultivos,48351
+Resto de Comunidades Autónomas,2009,Herbáceos,107452
+Resto de Comunidades Autónomas,2009,Frutales,65713
+Resto de Comunidades Autónomas,2009,Olivar y Viñedo,18553
+Resto de Comunidades Autónomas,2009,Patatas y hortalizas,39875
+Resto de Comunidades Autónomas,2009,Otros tipos de cultivos,43002
+Resto de Comunidades Autónomas,2010,Herbáceos,91059
+Resto de Comunidades Autónomas,2010,Frutales,66263
+Resto de Comunidades Autónomas,2010,Olivar y Viñedo,22630
+Resto de Comunidades Autónomas,2010,Patatas y hortalizas,50158
+Resto de Comunidades Autónomas,2010,Otros tipos de cultivos,47619
+Resto de Comunidades Autónomas,2011,Herbáceos,47530
+Resto de Comunidades Autónomas,2011,Frutales,102120
+Resto de Comunidades Autónomas,2011,Olivar y Viñedo,22617
+Resto de Comunidades Autónomas,2011,Patatas y hortalizas,88552
+Resto de Comunidades Autónomas,2011,Otros tipos de cultivos,42608
+Resto de Comunidades Autónomas,2012,Herbáceos,65186
+Resto de Comunidades Autónomas,2012,Frutales,100546
+Resto de Comunidades Autónomas,2012,Olivar y Viñedo,13221
+Resto de Comunidades Autónomas,2012,Patatas y hortalizas,90398
+Resto de Comunidades Autónomas,2012,Otros tipos de cultivos,38127
+Resto de Comunidades Autónomas,2013,Herbáceos,93249
+Resto de Comunidades Autónomas,2013,Frutales,69213
+Resto de Comunidades Autónomas,2013,Olivar y Viñedo,6081
+Resto de Comunidades Autónomas,2013,Patatas y hortalizas,79531
+Resto de Comunidades Autónomas,2013,Otros tipos de cultivos,41284
+Resto de Comunidades Autónomas,2014,Herbáceos,146916
+Resto de Comunidades Autónomas,2014,Frutales,62216
+Resto de Comunidades Autónomas,2014,Olivar y Viñedo,3067
+Resto de Comunidades Autónomas,2014,Patatas y hortalizas,46653
+Resto de Comunidades Autónomas,2014,Otros tipos de cultivos,49280
+Resto de Comunidades Autónomas,2015,Herbáceos,134246
+Resto de Comunidades Autónomas,2015,Frutales,27585
+Resto de Comunidades Autónomas,2015,Olivar y Viñedo,57928
+Resto de Comunidades Autónomas,2015,Patatas y hortalizas,29117
+Resto de Comunidades Autónomas,2015,Otros tipos de cultivos,42403
+Resto de Comunidades Autónomas,2016,Herbáceos,74359
+Resto de Comunidades Autónomas,2016,Frutales,62835
+Resto de Comunidades Autónomas,2016,Olivar y Viñedo,1098
+Resto de Comunidades Autónomas,2016,Patatas y hortalizas,47744
+Resto de Comunidades Autónomas,2016,Otros tipos de cultivos,82252
